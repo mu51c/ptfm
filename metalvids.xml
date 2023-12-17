@@ -1442,1620 +1442,1076 @@
     <content></content>
 </plugin>
 
-
-{
-    "items": [
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]AC/DC - Dirty Deeds Done Dirt Cheap[/COLOR]",
+            "title": "AC/DC - Dirty Deeds Done Dirt Cheap",
 	    "summary": "AC/DC 1976 or Type/Paste here what you want as a description",
             "thumbnail": "https://w1.pngwing.com/pngs/821/327/png-transparent-child-logo-acdc-badge-red-text-thumbnail.png",
             "link": [
                 "https://youtu.be/9v8pAxWL6C4"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]AC/DC - Girls got Rhythm[/COLOR]",
+
+
+            "title": "AC/DC - Girls got Rhythm",
             "thumbnail": "https://w1.pngwing.com/pngs/821/327/png-transparent-child-logo-acdc-badge-red-text-thumbnail.png",
             "link": [
                 "https://youtu.be/GStgyL2Vt44?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]AC/DC - Highway to Hell[/COLOR]",
+
+
+            "title": "AC/DC - Highway to Hell",
             "thumbnail": "https://w1.pngwing.com/pngs/821/327/png-transparent-child-logo-acdc-badge-red-text-thumbnail.png",
             "link": [
                 "https://youtu.be/l482T0yNkeo"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]AC/DC - High Voltage[/COLOR]",
+
+
+            "title": "AC/DC - High Voltage",
             "thumbnail": "https://w1.pngwing.com/pngs/821/327/png-transparent-child-logo-acdc-badge-red-text-thumbnail.png",
             "link": [
                 "https://youtu.be/Nnjh-zp6pP4"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]AC/DC - It's A Long Way to the Top[/COLOR]",
+
+
+            "title": "AC/DC - It's A Long Way to the Top",
             "thumbnail": "https://w1.pngwing.com/pngs/821/327/png-transparent-child-logo-acdc-badge-red-text-thumbnail.png",
             "link": [
                 "https://youtu.be/EHYO0t1WEs8"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]AC/DC - Let There Be Rock[/COLOR]",
+
+
+            "title": "AC/DC - Let There Be Rock",
             "thumbnail": "https://w1.pngwing.com/pngs/821/327/png-transparent-child-logo-acdc-badge-red-text-thumbnail.png",
             "link": [
                 "https://youtu.be/3f2g4RMfhS0"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]AC/DC - Problem Child[/COLOR]",
+
+
+            "title": "AC/DC - Problem Child",
             "thumbnail": "https://w1.pngwing.com/pngs/821/327/png-transparent-child-logo-acdc-badge-red-text-thumbnail.png",
             "link": [
                 "https://youtu.be/nng92efL2f8"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]AC/DC - TNT[/COLOR]",
+
+
+            "title": "AC/DC - TNT",
             "thumbnail": "https://w1.pngwing.com/pngs/821/327/png-transparent-child-logo-acdc-badge-red-text-thumbnail.png",
             "link": [
                 "https://youtu.be/JJfT0n5zvZg"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]AC/DC - Touch too Much[/COLOR]",
+
+
+            "title": "AC/DC - Touch too Much",
             "thumbnail": "https://w1.pngwing.com/pngs/821/327/png-transparent-child-logo-acdc-badge-red-text-thumbnail.png",
             "link": [
                 "https://youtu.be/JGftIcp2SC0?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]AC/DC - Whole lotta Rosie[/COLOR]",
+
+
+            "title": "AC/DC - Whole lotta Rosie",
             "thumbnail": "https://w1.pngwing.com/pngs/821/327/png-transparent-child-logo-acdc-badge-red-text-thumbnail.png",
             "link": [
                 "https://youtu.be/4Ucrw-z4ZH4?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Aerosmith - Toys in the Attic[/COLOR]",
+
+
+            "title": "Aerosmith - Toys in the Attic",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI2ODk2MDYtMTBmMC00NmE5LTkxMGMtOTU4ZmVlZGMwOTdhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
             "link": [
                 "https://www.venturerider.org/music/aerosmith/01%20Toys%20in%20the%20Attic.mp3"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Alice Cooper - Billion Dollar Babies[/COLOR]",
+
+
+            "title": "Alice Cooper - Billion Dollar Babies",
             "thumbnail": "https://hairbands.xyz/wp-content/uploads/alice-cooper-cover-photo.jpg",
             "link": [
                 "http://104.251.123.41/Billion%20Dollar%20Babies-Alice%20Cooper.mp4"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Alice in Chains - Down in a Hole[/COLOR]",
+
+
+            "title": "Alice in Chains - Down in a Hole",
             "thumbnail": "https://cdn.mos.cms.futurecdn.net/RtqnqYr5SdD97UDc7sn67k.jpg",
             "link": [
                 "https://youtu.be/f8hT3oDDf6c?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Alice in Chains - Man in a Box[/COLOR]",
+
+
+            "title": "Alice in Chains - Man in a Box",
             "thumbnail": "https://cdn.mos.cms.futurecdn.net/RtqnqYr5SdD97UDc7sn67k.jpg",
             "link": [
                 "https://youtu.be/Opzq-hxYgfE"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]A Perfect Circle - Judith[/COLOR]",
+
+
+            "title": "A Perfect Circle - Judith",
             "thumbnail": "https://en.metal-tracker.com/cache_images/details/2353021.jpg",
             "link": [
                 "https://youtu.be/xTgKRCXybSM?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Audioslave - Highway[/COLOR]",
+
+
+            "title": "Audioslave - Highway",
             "thumbnail": "https://w0.peakpx.com/wallpaper/499/277/HD-wallpaper-audioslave-rock-alternative-rock-alternative-thumbnail.jpg",
             "link": [
                 "https://youtu.be/cy2ZUGc2mSs?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Black Sabbath - Children of the Sea[/COLOR]",
+
+
+            "title": "Black Sabbath - Children of the Sea",
             "thumbnail": "https://th.bing.com/th/id/R.56bd096193585a96bf5a43eb0184aa3e?rik=m1H57SE1dQhx7g&riu=http%3a%2f%2fwww.wallpaperup.com%2fuploads%2fwallpapers%2f2013%2f06%2f07%2f99117%2fd85ab945c4266cbb24d984ae6435d7ac.jpg&ehk=QIK0xhUbwBOLnSbStl5Dct%2bPE4M92Kz6P26NYPObHys%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/TaZL3oiqupE"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Black Sabbath - Falling off the Edge of the World[/COLOR]",
+
+
+            "title": "Black Sabbath - Falling off the Edge of the World",
             "thumbnail": "https://th.bing.com/th/id/R.56bd096193585a96bf5a43eb0184aa3e?rik=m1H57SE1dQhx7g&riu=http%3a%2f%2fwww.wallpaperup.com%2fuploads%2fwallpapers%2f2013%2f06%2f07%2f99117%2fd85ab945c4266cbb24d984ae6435d7ac.jpg&ehk=QIK0xhUbwBOLnSbStl5Dct%2bPE4M92Kz6P26NYPObHys%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/5KmvNwAoRB4"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Black Sabbath - Mob Rules[/COLOR]",
+
+
+            "title": "Black Sabbath - Mob Rules",
             "thumbnail": "https://th.bing.com/th/id/R.56bd096193585a96bf5a43eb0184aa3e?rik=m1H57SE1dQhx7g&riu=http%3a%2f%2fwww.wallpaperup.com%2fuploads%2fwallpapers%2f2013%2f06%2f07%2f99117%2fd85ab945c4266cbb24d984ae6435d7ac.jpg&ehk=QIK0xhUbwBOLnSbStl5Dct%2bPE4M92Kz6P26NYPObHys%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/BTxSNosJrDo"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Black Sabbath - Neon Knights[/COLOR]",
+
+
+            "title": "Black Sabbath - Neon Knights",
             "thumbnail": "https://th.bing.com/th/id/R.56bd096193585a96bf5a43eb0184aa3e?rik=m1H57SE1dQhx7g&riu=http%3a%2f%2fwww.wallpaperup.com%2fuploads%2fwallpapers%2f2013%2f06%2f07%2f99117%2fd85ab945c4266cbb24d984ae6435d7ac.jpg&ehk=QIK0xhUbwBOLnSbStl5Dct%2bPE4M92Kz6P26NYPObHys%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/8pXLQF7Tdkc"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Black Sabbath - N.I.B.[/COLOR]",
+
+
+            "title": "Black Sabbath - N.I.B.",
             "thumbnail": "https://www.logolynx.com/images/logolynx/32/3207f8a7d0ea9fdf3ffd501fc845841a.jpeg",
             "link": [
                 "https://youtu.be/MiY2JsGXrtM"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Black Sabbath - Over and Over[/COLOR]",
+
+
+            "title": "Black Sabbath - Over and Over",
             "thumbnail": "https://www.logolynx.com/images/logolynx/32/3207f8a7d0ea9fdf3ffd501fc845841a.jpeg",
             "link": [
                 "https://youtu.be/QbdM3eyc0ac"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Black Sabbath - Paranoid[/COLOR]",
+
+
+            "title": "Black Sabbath - Paranoid",
             "thumbnail": "https://www.logolynx.com/images/logolynx/32/3207f8a7d0ea9fdf3ffd501fc845841a.jpeg",
             "link": [
                 "https://youtu.be/0qanF-91aJo"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Black Sabbath - Sabbath Bloody Sabbath[/COLOR]",
+
+
+            "title": "Black Sabbath - Sabbath Bloody Sabbath",
             "thumbnail": "https://www.logolynx.com/images/logolynx/32/3207f8a7d0ea9fdf3ffd501fc845841a.jpeg",
             "link": [
                 "https://youtu.be/mfTpjrzas5E"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Black Sabbath - Sign of the Southern Cross[/COLOR]",
+
+
+            "title": "Black Sabbath - Sign of the Southern Cross",
             "thumbnail": "https://th.bing.com/th/id/R.56bd096193585a96bf5a43eb0184aa3e?rik=m1H57SE1dQhx7g&riu=http%3a%2f%2fwww.wallpaperup.com%2fuploads%2fwallpapers%2f2013%2f06%2f07%2f99117%2fd85ab945c4266cbb24d984ae6435d7ac.jpg&ehk=QIK0xhUbwBOLnSbStl5Dct%2bPE4M92Kz6P26NYPObHys%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/fwlPFq9b1xQ"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Breaking Benjamin - Breath[/COLOR]",
+
+
+            "title": "Breaking Benjamin - Breath",
             "thumbnail": "http://images4.fanpop.com/image/photos/14700000/Breaking-Benjamin-breaking-benjamin-14732386-900-587.jpg",
             "link": [
                 "https://youtu.be/qQ3qJmgktS0?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Breaking Benjamin - I Will Not Bow[/COLOR]",
+
+
+            "title": "Breaking Benjamin - I Will Not Bow",
             "thumbnail": "http://images4.fanpop.com/image/photos/14700000/Breaking-Benjamin-breaking-benjamin-14732386-900-587.jpg",
             "link": [
                 "https://youtu.be/7qrRzNidzIc?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Breaking Benjamin - So Cold[/COLOR]",
+
+
+            "title": "Breaking Benjamin - So Cold",
             "thumbnail": "http://images4.fanpop.com/image/photos/14700000/Breaking-Benjamin-breaking-benjamin-14732386-900-587.jpg",
             "link": [
                 "https://youtu.be/UkI4KejmSfY?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Buckcherry - Crazy Bitch[/COLOR]",
+
+
+            "title": "Buckcherry - Crazy Bitch",
             "thumbnail": "https://th.bing.com/th/id/OIP.Ssa8_2ia2zTcX9AoTFDQuAHaFj?pid=ImgDet&rs=1",
             "link": [
                 "https://youtu.be/UJ6pLKlU-8Q?list=PLVq1LX65RwEI9FCRBrnFjH851WzXrPEOE"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]CCR - Born on the Bayou[/COLOR]",
+
+
+            "title": "CCR - Born on the Bayou",
             "thumbnail": "https://cdn11.bigcommerce.com/s-1xa2dhlu0a/images/stencil/1280x1280/products/78090/84238/LDC0002-2__78509.1657985383.jpg?c=1",
             "link": [
                 "http://104.251.123.41/Born%20On%20The%20Bayou-Creedence%20Clearwater%20Revival.mp4"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]CCR - Lookin' Out My Back Door[/COLOR]",
+
+
+            "title": "CCR - Lookin' Out My Back Door",
             "thumbnail": "https://cdn11.bigcommerce.com/s-1xa2dhlu0a/images/stencil/1280x1280/products/78090/84238/LDC0002-2__78509.1657985383.jpg?c=1",
             "link": [
                 "https://youtu.be/Aae_RHRptRg"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Coolio - Gangsta's Paradise[/COLOR]",
+
+
+            "title": "Coolio - Gangsta's Paradise",
             "thumbnail": "https://th.bing.com/th/id/R.eb0bc0459b248e678897a64e1d7671e0?rik=d9aJRUCVfgcoOg&riu=http%3a%2f%2fimages.genius.com%2f02deffe409f2768e6ad04023aacd908b.724x724x1.jpg&ehk=GvsEDmvdOoxxGuBFVycdTfTtN0L9sxl%2bwFe%2biV0hzcA%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/fPO76Jlnz6c"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Damn Yankees - Come Again[/COLOR]",
+
+
+            "title": "Damn Yankees - Come Again",
             "thumbnail": "https://i.ytimg.com/vi/G40ZgzINRDI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDcDmafw74GW0WlnD2_5iwKMHRxCA",
             "link": [
                 "https://youtu.be/BtuOAnsuZBY?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Damn Yankees - High Enough[/COLOR]",
+
+
+            "title": "Damn Yankees - High Enough",
             "thumbnail": "https://i.ytimg.com/vi/G40ZgzINRDI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDcDmafw74GW0WlnD2_5iwKMHRxCA",
             "link": [
                 "https://youtu.be/l_uh8XjgLTE?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Deep Purple - Highway Star Live[/COLOR]",
+
+
+            "title": "Deep Purple - Highway Star Live",
             "thumbnail": "https://wallpapertag.com/wallpaper/full/7/e/e/976855-gorgerous-deep-purple-wallpapers-1920x1080.jpg",
             "link": [
                 "https://youtu.be/3SH_MbMJwxI?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Deep Purple - Knocking At Your Back Door[/COLOR]",
+
+
+            "title": "Deep Purple - Knocking At Your Back Door",
             "thumbnail": "https://wallpapertag.com/wallpaper/full/7/e/e/976855-gorgerous-deep-purple-wallpapers-1920x1080.jpg",
             "link": [
                 "https://youtu.be/G7GERh0sQzY"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Deep Purple - Smoke On The Water[/COLOR]",
+
+
+            "title": "Deep Purple - Smoke On The Water",
             "thumbnail": "https://wallpapertag.com/wallpaper/full/7/e/e/976855-gorgerous-deep-purple-wallpapers-1920x1080.jpg",
             "link": [
                 "https://youtu.be/F7ZF2xaNhyw"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Def Leppard - Switch 625[/COLOR]",
+
+
+            "title": "Def Leppard - Switch 625",
             "thumbnail": "https://s3.amazonaws.com/busites_www/hysteria/content/articles/dl_news_5_12",
             "link": [
                 "https://youtu.be/bGgxPFyJmwc?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Def Leppard - Wasted[/COLOR]",
+
+
+            "title": "Def Leppard - Wasted",
             "thumbnail": "https://s3.amazonaws.com/busites_www/hysteria/content/articles/dl_news_5_12",
             "link": [
                 "https://youtu.be/IQzw1wJO8bY?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Dio - Don't Talk to Strangers[/COLOR]",
+
+
+            "title": "Dio - Don't Talk to Strangers",
             "thumbnail": "https://townsquare.media/site/838/files/2022/01/attachment-dio-holydiver-crop.jpg",
             "link": [
                 "https://youtu.be/BhBfBW_vyGc"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Dio - Egypt (The Chains Are On)[/COLOR]",
+
+
+            "title": "Dio - Egypt (The Chains Are On)",
             "thumbnail": "https://townsquare.media/site/838/files/2022/01/attachment-dio-holydiver-crop.jpg",
             "link": [
                 "https://youtu.be/iJil3H_lRPs?list=PLVq1LX65RwEIoYuFA5r-NP4cAgAs5z2M2"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Dio - Evil Eyes[/COLOR]",
+
+
+            "title": "Dio - Evil Eyes",
             "thumbnail": "https://townsquare.media/site/838/files/2022/01/attachment-dio-holydiver-crop.jpg",
             "link": [
                 "https://youtu.be/_X2Wn32NZpE?list=PLVq1LX65RwEIoYuFA5r-NP4cAgAs5z2M2"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Dio - Heaven and Hell[/COLOR]",
+
+
+            "title": "Dio - Heaven and Hell",
             "thumbnail": "https://townsquare.media/site/838/files/2022/01/attachment-dio-holydiver-crop.jpg",
             "link": [
                 "https://youtu.be/lpxK1DBP3xA"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Dio - Night People[/COLOR]",
+
+
+            "title": "Dio - Night People",
             "thumbnail": "https://townsquare.media/site/838/files/2022/01/attachment-dio-holydiver-crop.jpg",
             "link": [
                 "https://youtu.be/2Bxh46m6_Ho?list=PLVq1LX65RwEIoYuFA5r-NP4cAgAs5z2M2"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Dio - The Last in Line[/COLOR]",
+
+
+            "title": "Dio - The Last in Line",
             "thumbnail": "https://townsquare.media/site/838/files/2022/01/attachment-dio-holydiver-crop.jpg",
             "link": [
                 "https://youtu.be/YTbRsGRWZW0"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Dio - We Rock[/COLOR]",
+
+
+            "title": "Dio - We Rock",
             "thumbnail": "https://townsquare.media/site/838/files/2022/01/attachment-dio-holydiver-crop.jpg",
             "link": [
                 "https://youtu.be/KT5AvKlPWA0"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Disturbed - A Reason to Fight[/COLOR]",
+
+
+            "title": "Disturbed - A Reason to Fight",
             "thumbnail": "https://images2.alphacoders.com/178/178560.jpg",
             "link": [
                 "https://youtu.be/t4382UVl0oc?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Disturbed - Remember[/COLOR]",
+
+
+            "title": "Disturbed - Remember",
             "thumbnail": "https://images2.alphacoders.com/178/178560.jpg",
             "link": [
                 "https://youtu.be/OaptZgTDWEg?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Disturbed - Stricken[/COLOR]",
+
+
+            "title": "Disturbed - Stricken",
             "thumbnail": "https://images2.alphacoders.com/178/178560.jpg",
             "link": [
                 "https://youtu.be/I77mjesUbkw"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Dokken - Alone Again[/COLOR]",
+
+
+            "title": "Dokken - Alone Again",
             "thumbnail": "https://th.bing.com/th/id/OIP.hR5hiVLGzomqeseMS_iF1AHaHO?pid=ImgDet&rs=1",
             "link": [
                 "https://youtu.be/PHgY53QXTyA?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Dokken - Lightnin' Strikes Again[/COLOR]",
+
+
+            "title": "Dokken - Lightnin' Strikes Again",
             "thumbnail": "https://th.bing.com/th/id/OIP.hR5hiVLGzomqeseMS_iF1AHaHO?pid=ImgDet&rs=1",
             "link": [
                 "https://youtu.be/MKF5R8doqDE?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Dokken - Tooth and Nail[/COLOR]",
+
+
+            "title": "Dokken - Tooth and Nail",
             "thumbnail": "https://th.bing.com/th/id/OIP.hR5hiVLGzomqeseMS_iF1AHaHO?pid=ImgDet&rs=1",
             "link": [
                 "https://youtu.be/XTW5sQ3-HRw?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]The Doors - L.A. Woman[/COLOR]",
+
+
+            "title": "The Doors - L.A. Woman",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/TheDoorsTheDoorsalbumcover.jpg/220px-TheDoorsTheDoorsalbumcover.jpg",
             "link": [
                 "https://youtu.be/TMiAQPABgHA"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]The Doors - Roadhouse Blues[/COLOR]",
+
+
+            "title": "The Doors - Roadhouse Blues",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/TheDoorsTheDoorsalbumcover.jpg/220px-TheDoorsTheDoorsalbumcover.jpg",
             "link": [
                 "http://www.ashleecadell.com/xyzstorelibrary/The%20Doors/Morrison%20Hotel/-%20Roadhouse%20Blues.mp3"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]The Doors - Touch Me[/COLOR]",
+
+
+            "title": "The Doors - Touch Me",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/TheDoorsTheDoorsalbumcover.jpg/220px-TheDoorsTheDoorsalbumcover.jpg",
             "link": [
                 "https://youtu.be/RrDsSPtZOu4"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Evanescence - Bring Me To Life[/COLOR]",
+
+
+            "title": "Evanescence - Bring Me To Life",
             "thumbnail": "https://th.bing.com/th/id/R.235cfa14108b57bba5222d92a649c304?rik=I8bDbh2kaVBWwQ&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f25300000%2fEvanescence-evanescence-25390508-1024-768.jpg&ehk=o061950oZxUMcKcCZyZWLctW80MvF9QS1inFaBYwYXM%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/3YxaaGgTQYM?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Firehouse - All She Wrote[/COLOR]",
+
+
+            "title": "Firehouse - All She Wrote",
             "thumbnail": "https://th.bing.com/th/id/R.cf461468e6a25a3af9e5948c0d9f6ca4?rik=cza6HjNApPYMYg&riu=http%3a%2f%2fhairbands.xyz%2fwp-content%2fuploads%2ffirehouse-cover-photo.jpg&ehk=WlqtcSA61bqINIUsAdo%2fJmqCRpa8pBuZhoU5HGR%2f6bk%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/sidL7S09jsc?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Five Finger Death Punch - Lift Me Up[/COLOR]",
+
+
+            "title": "Five Finger Death Punch - Lift Me Up",
             "thumbnail": "https://i.ebayimg.com/images/g/0iEAAOSwsslivjQY/s-l500.jpg",
             "link": [
                 "https://youtu.be/X-2yuGgp_U8"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Five Finger Death Punch - Wash it All Away[/COLOR]",
+
+
+            "title": "Five Finger Death Punch - Wash it All Away",
             "thumbnail": "https://i.ebayimg.com/images/g/0iEAAOSwsslivjQY/s-l500.jpg",
             "link": [
                 "https://youtu.be/l9VFg44H2z8"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Five Finger Death Punch - Watch You Bleed[/COLOR]",
+
+
+            "title": "Five Finger Death Punch - Watch You Bleed",
             "thumbnail": "https://i.ebayimg.com/images/g/0iEAAOSwsslivjQY/s-l500.jpg",
             "link": [
                 "https://youtu.be/KTuzXdlStMk?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Fozzy - Burn Me Out[/COLOR]",
+
+
+            "title": "Fozzy - Burn Me Out",
             "thumbnail": "https://www.debaser.it/resize.aspx?path=/files/artists/dca_86583.jpg",
             "link": [
                 "https://youtu.be/EpVaaZyHR4k?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Fozzy - Judas[/COLOR]",
+
+
+            "title": "Fozzy - Judas",
             "thumbnail": "https://www.debaser.it/resize.aspx?path=/files/artists/dca_86583.jpg",
             "link": [
                 "https://youtu.be/lqURPBtGJzg?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Godsmack - Under Your Scars[/COLOR]",
+
+
+            "title": "Godsmack - Under Your Scars",
             "thumbnail": "https://th.bing.com/th/id/OIP.QK7rNCMalZk8Sg4hbGVmewHaH8?pid=ImgDet&rs=1",
             "link": [
                 "https://youtu.be/ng7QrYgdItQ?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Godsmack - Unforgettable[/COLOR]",
+
+
+            "title": "Godsmack - Unforgettable",
             "thumbnail": "https://th.bing.com/th/id/OIP.QK7rNCMalZk8Sg4hbGVmewHaH8?pid=ImgDet&rs=1",
             "link": [
                 "https://youtu.be/7Xs8BaXm784"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Great White - Save Your Love[/COLOR]",
+
+
+            "title": "Great White - Save Your Love",
             "thumbnail": "https://hairbands.xyz/wp-content/uploads/2017/11/great-white-cover-photo.jpg",
             "link": [
                 "https://youtu.be/kBY31lCXimo?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Halestorm - I Miss the Misery[/COLOR]",
+
+
+            "title": "Halestorm - I Miss the Misery",
             "thumbnail": "https://th.bing.com/th/id/R.a72e014a06c50959f8659bd0ae20e59e?rik=xNQ%2fAxqmp95dPA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbEVF3rh.jpg&ehk=PFQC0J0dhnKqAJt%2b41cOZ0VDuHEWOrfvX78MjUtWlro%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/YpJAmlnBxoA?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Hatebreed - Destroy Everything[/COLOR]",
+
+
+            "title": "Hatebreed - Destroy Everything",
             "thumbnail": "https://images.squarespace-cdn.com/content/v1/56e6ecf462cd94e26a2938c4/1599802596878-DBWVUHAA0ZAQ4984TL9F/Hatebreed_BandThumbnail_FB_02.jpg",
             "link": [
                 "https://youtu.be/DBwgX8yBqsw"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Hatebreed - Honor Never Dies[/COLOR]",
+
+
+            "title": "Hatebreed - Honor Never Dies",
             "thumbnail": "https://images.squarespace-cdn.com/content/v1/56e6ecf462cd94e26a2938c4/1599802596878-DBWVUHAA0ZAQ4984TL9F/Hatebreed_BandThumbnail_FB_02.jpg",
             "link": [
                 "https://youtu.be/_m-vaJDy25c"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Hatebreed - I Will Be Heard[/COLOR]",
+
+
+            "title": "Hatebreed - I Will Be Heard",
             "thumbnail": "https://images.squarespace-cdn.com/content/v1/56e6ecf462cd94e26a2938c4/1599802596878-DBWVUHAA0ZAQ4984TL9F/Hatebreed_BandThumbnail_FB_02.jpg",
             "link": [
                 "I Will Be Heard"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Hatebreed - Seven Enemies[/COLOR]",
+
+
+            "title": "Hatebreed - Seven Enemies",
             "thumbnail": "https://images.squarespace-cdn.com/content/v1/56e6ecf462cd94e26a2938c4/1599802596878-DBWVUHAA0ZAQ4984TL9F/Hatebreed_BandThumbnail_FB_02.jpg",
             "link": [
                 "https://youtu.be/7UAK885wB54"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Heaven & Hell - Bible Black[/COLOR]",
+
+
+            "title": "Heaven & Hell - Bible Black",
             "thumbnail": "https://th.bing.com/th/id/R.da04b17842e07d6da4df0af62ccbd75b?rik=4HOC0yeJMZbIWg&riu=http%3a%2f%2fwww.metal-archives.com%2fimages%2f9%2f9%2f5%2f3%2f99536_logo.jpg&ehk=Zc6FHcopmXB3DUStj0L4pFn38r6119gPrC5HUWtK%2bKw%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/KlNaBqYQR4w"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Heaven & Hell - The Devil Cried[/COLOR]",
+
+
+            "title": "Heaven & Hell - The Devil Cried",
             "thumbnail": "https://th.bing.com/th/id/R.da04b17842e07d6da4df0af62ccbd75b?rik=4HOC0yeJMZbIWg&riu=http%3a%2f%2fwww.metal-archives.com%2fimages%2f9%2f9%2f5%2f3%2f99536_logo.jpg&ehk=Zc6FHcopmXB3DUStj0L4pFn38r6119gPrC5HUWtK%2bKw%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/2LPz6ojYyI8"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Ice Cube - Ain't Got No Haters[/COLOR]",
+
+
+            "title": "Ice Cube - Ain't Got No Haters",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/12/FeaturingIceCube.jpg",
             "link": [
                 "https://youtu.be/nCkblLhs0-4"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Ice Cube - It Was A Good Day[/COLOR]",
+
+
+            "title": "Ice Cube - It Was A Good Day",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/12/FeaturingIceCube.jpg",
             "link": [
                 "https://youtu.be/h4UqMyldS7Q"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Ice Cube - Lethal Injection[/COLOR]",
+
+
+            "title": "Ice Cube - Lethal Injection",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/12/FeaturingIceCube.jpg",
             "link": [
                 "https://jakesallstarkaraoke.com/media/Ice_Cube_-_Lethal_Injection_-_02_-_Really_Doe.mp3"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Ice Cube - No Vaseline[/COLOR]",
+
+
+            "title": "Ice Cube - No Vaseline",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/12/FeaturingIceCube.jpg",
             "link": [
                 "https://youtu.be/c9mMLF2nzkk"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Ice Cube - You Know How We Do It[/COLOR]",
+
+
+            "title": "Ice Cube - You Know How We Do It",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/12/FeaturingIceCube.jpg",
             "link": [
                 "https://youtu.be/rzRqEWJYwX4"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Iron Maiden - Aces High[/COLOR]",
+
+
+            "title": "Iron Maiden - Aces High",
             "thumbnail": "http://cdn.shopify.com/s/files/1/0261/7891/2331/collections/dup1-ArtToMatch_b5a09d24-0f0c-454d-88b9-71835df454db_1200x1200.jpg?v=1590957618",
             "link": [
                 "https://youtu.be/Xg9aQvjMS60?list=PLVq1LX65RwELLKP-fQzSRU7nXxux44gbk"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Iron Maiden - Fear of the Dark[/COLOR]",
+
+
+            "title": "Iron Maiden - Fear of the Dark",
             "thumbnail": "http://cdn.shopify.com/s/files/1/0261/7891/2331/collections/dup1-ArtToMatch_b5a09d24-0f0c-454d-88b9-71835df454db_1200x1200.jpg?v=1590957618",
             "link": [
                 "http://www.ashleecadell.com/xyzstorelibrary/Iron%20Maiden/Fear%20Of%20The%20Dark/12%20-%20Fear%20Of%20The%20Dark%20(1998%20Digital%20Remaster).mp3"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Iron Maiden - Hallowed Be Thy Name[/COLOR]",
+
+
+            "title": "Iron Maiden - Hallowed Be Thy Name",
             "thumbnail": "http://cdn.shopify.com/s/files/1/0261/7891/2331/collections/dup1-ArtToMatch_b5a09d24-0f0c-454d-88b9-71835df454db_1200x1200.jpg?v=1590957618",
             "link": [
                 "https://youtu.be/_BFXCgm5270"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Iron Maiden - Live After Death Concert[/COLOR]",
+
+
+            "title": "Iron Maiden - Live After Death Concert",
             "thumbnail": "http://cdn.shopify.com/s/files/1/0261/7891/2331/collections/dup1-ArtToMatch_b5a09d24-0f0c-454d-88b9-71835df454db_1200x1200.jpg?v=1590957618",
             "link": [
                 "https://youtu.be/XECqZcIO1fU?list=PLVq1LX65RwELLKP-fQzSRU7nXxux44gbk"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Iron Maiden - Powerslave[/COLOR]",
+
+
+            "title": "Iron Maiden - Powerslave",
             "thumbnail": "http://cdn.shopify.com/s/files/1/0261/7891/2331/collections/dup1-ArtToMatch_b5a09d24-0f0c-454d-88b9-71835df454db_1200x1200.jpg?v=1590957618",
             "link": [
                 "https://youtu.be/xqUa5SbLU_c"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Iron Maiden - Run to the Hills[/COLOR]",
+
+
+            "title": "Iron Maiden - Run to the Hills",
             "thumbnail": "http://cdn.shopify.com/s/files/1/0261/7891/2331/collections/dup1-ArtToMatch_b5a09d24-0f0c-454d-88b9-71835df454db_1200x1200.jpg?v=1590957618",
             "link": [
                 "https://youtu.be/86URGgqONvA?list=PLVq1LX65RwELLKP-fQzSRU7nXxux44gbk"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Iron Maiden - The Prisoner[/COLOR]",
+
+
+            "title": "Iron Maiden - The Prisoner",
             "thumbnail": "http://cdn.shopify.com/s/files/1/0261/7891/2331/collections/dup1-ArtToMatch_b5a09d24-0f0c-454d-88b9-71835df454db_1200x1200.jpg?v=1590957618",
             "link": [
                 "https://youtu.be/0Tb8Jo11uGo"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Iron Maiden - The Rime of the Ancient Mariner[/COLOR]",
+
+
+            "title": "Iron Maiden - The Rime of the Ancient Mariner",
             "thumbnail": "http://cdn.shopify.com/s/files/1/0261/7891/2331/collections/dup1-ArtToMatch_b5a09d24-0f0c-454d-88b9-71835df454db_1200x1200.jpg?v=1590957618",
             "link": [
                 "https://youtu.be/MNcbcUguUlE?list=PLVq1LX65RwELLKP-fQzSRU7nXxux44gbk"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Iron Maiden - The Trooper[/COLOR]",
+
+
+            "title": "Iron Maiden - The Trooper",
             "thumbnail": "http://cdn.shopify.com/s/files/1/0261/7891/2331/collections/dup1-ArtToMatch_b5a09d24-0f0c-454d-88b9-71835df454db_1200x1200.jpg?v=1590957618",
             "link": [
                 "https://youtu.be/X4bgXH3sJ2Q?list=PLVq1LX65RwELLKP-fQzSRU7nXxux44gbk"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Judas Priest - Breaking the Law[/COLOR]",
+
+
+            "title": "Judas Priest - Breaking the Law",
             "thumbnail": "https://i.ytimg.com/vi/mhkoNQ-7uRw/maxresdefault.jpg",
             "link": [
                 "https://youtu.be/_Wmz2IIB78o?list=PLVq1LX65RwEJvZrdmZzxAXI5U5IvID0hI"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Judas Priest - Electric Eye[/COLOR]",
+
+
+            "title": "Judas Priest - Electric Eye",
             "thumbnail": "https://i.ytimg.com/vi/mhkoNQ-7uRw/maxresdefault.jpg",
             "link": [
                 "https://youtu.be/UMJF37BVGTA"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Judas Priest - Night Crawler[/COLOR]",
+
+
+            "title": "Judas Priest - Night Crawler",
             "thumbnail": "https://i.ytimg.com/vi/mhkoNQ-7uRw/maxresdefault.jpg",
             "link": [
                 "https://youtu.be/XUiTEob4Kzg?list=PLVq1LX65RwEJvZrdmZzxAXI5U5IvID0hI"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Judas Priest - Painkiller[/COLOR]",
+
+
+            "title": "Judas Priest - Painkiller",
             "thumbnail": "https://i.ytimg.com/vi/mhkoNQ-7uRw/maxresdefault.jpg",
             "link": [
                 "https://youtu.be/DRKBeSS2GCY?list=PLVq1LX65RwEJvZrdmZzxAXI5U5IvID0hI"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Judas Priest - Rapid Fire[/COLOR]",
+
+
+            "title": "Judas Priest - Rapid Fire",
             "thumbnail": "https://i.ytimg.com/vi/mhkoNQ-7uRw/maxresdefault.jpg",
             "link": [
                 "https://youtu.be/1LJLyU6H0jI?list=PLVq1LX65RwEJvZrdmZzxAXI5U5IvID0hI"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Judas Priest - Riding on the Wind[/COLOR]",
+
+
+            "title": "Judas Priest - Riding on the Wind",
             "thumbnail": "https://i.ytimg.com/vi/mhkoNQ-7uRw/maxresdefault.jpg",
             "link": [
                 "https://youtu.be/wz-IsyOQfEs"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Judas Priest - The Green Manalishi[/COLOR]",
+
+
+            "title": "Judas Priest - The Green Manalishi",
             "thumbnail": "https://i.ytimg.com/vi/mhkoNQ-7uRw/maxresdefault.jpg",
             "link": [
                 "https://youtu.be/ziwspbzfvOc"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Judas Priest - The Ripper[/COLOR]",
+
+
+            "title": "Judas Priest - The Ripper",
             "thumbnail": "https://i.ytimg.com/vi/mhkoNQ-7uRw/maxresdefault.jpg",
             "link": [
                 "https://youtu.be/lriWlHZAy8A?list=PLVq1LX65RwEJvZrdmZzxAXI5U5IvID0hI"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Judas Priest - The Sentinel[/COLOR]",
+
+
+            "title": "Judas Priest - The Sentinel",
             "thumbnail": "https://i.ytimg.com/vi/mhkoNQ-7uRw/maxresdefault.jpg",
             "link": [
                 "http://www.ashleecadell.com/xyzstorelibrary/Judas%20Priest/Defenders%20Of%20The%20Faith%20%5BRemastered%5D/04%20-%20The%20Sentinel.mp3"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Judas Priest - Touch of Evil[/COLOR]",
+
+
+            "title": "Judas Priest - Touch of Evil",
             "thumbnail": "https://i.ytimg.com/vi/mhkoNQ-7uRw/maxresdefault.jpg",
             "link": [
                 "https://youtu.be/9gQH1IEMf4Q?list=PLVq1LX65RwEJvZrdmZzxAXI5U5IvID0hI"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Kiss - Detroit Rock City[/COLOR]",
+
+
+            "title": "Kiss - Detroit Rock City",
             "thumbnail": "https://images.squarespace-cdn.com/content/v1/54e64494e4b08f2aaf28c350/1577932202770-9Q9GRPYBLJV2FS26EODT/detroit+rock+city.jpg?format=1000w",
             "link": [
                 "https://youtu.be/iZq3i94mSsQ?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]KISS - Love Gun[/COLOR]",
+
+
+            "title": "KISS - Love Gun",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ef/Love_gun_cover.jpg",
             "link": [
                 "https://youtu.be/vCo2QMJcsDg?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Korn - Freak on a Leash[/COLOR]",
+
+
+            "title": "Korn - Freak on a Leash",
             "thumbnail": "https://th.bing.com/th/id/R.9af308b73ea6ec891cbbf343b418dc86?rik=gq8CuV6OU%2bWE3g&riu=http%3a%2f%2fdose.ca%2fwp-content%2fuploads%2f2013%2f10%2fkorn.jpg&ehk=4v0L2gHmt0nmFnScpsTi5%2fS7GTZbUUFdYc4visUfxLY%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/jRGrNDV2mKc?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Led Zeppelin - Stairway to Heaven[/COLOR]",
+
+
+            "title": "Led Zeppelin - Stairway to Heaven",
             "thumbnail": "https://1000logos.net/wp-content/uploads/2017/03/Led-Zeppelin-logo.jpg",
             "link": [
                 "http://104.251.123.41/Stairway%20to%20Heaven-Led%20Zeppelin.mp4"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Limp Bizkit - Break Stuff[/COLOR]",
+
+
+            "title": "Limp Bizkit - Break Stuff",
             "thumbnail": "https://cdn3.whatculture.com/images/2021/01/47b7a8f506181bb5-1200x675.jpg",
             "link": [
                 "https://youtu.be/ZpUYjpKg9KY"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Linkin Park - Numb[/COLOR]",
+
+
+            "title": "Linkin Park - Numb",
             "thumbnail": "https://th.bing.com/th/id/R.3ae542228255facc7f081e095b60555e?rik=pK9fEwIOlWXvpg&riu=http%3a%2f%2fwallsdesk.com%2fwp-content%2fuploads%2f2016%2f11%2fLinkin-Park-Wallpaper-.jpg&ehk=oWJzzFKOJE9%2bNvY%2b2UH%2fPmNO%2b0jQuw7Y6SU7hShQvvc%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/kXYiU_JCYtU?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Lita Ford & Ozzy - Close Your Eyes Forever[/COLOR]",
+
+
+            "title": "Lita Ford & Ozzy - Close Your Eyes Forever",
             "thumbnail": "https://i.ytimg.com/vi/aWjY8ivVQgA/maxresdefault.jpg",
             "link": [
                 "https://youtu.be/ulxNrRLbhEw"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Megadeth - Almost Honest[/COLOR]",
+
+
+            "title": "Megadeth - Almost Honest",
             "thumbnail": "https://cdns-images.dzcdn.net/images/cover/e069892d14bac0cac8380f9a2c0169ec/264x264.jpg",
             "link": [
                 "https://youtu.be/Fh9Ixvfyzf0?list=PLVq1LX65RwEJZQDAiX0NC2YG9bA7_PdGO"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Megadeth - Moto Psycho[/COLOR]",
+
+
+            "title": "Megadeth - Moto Psycho",
             "thumbnail": "https://cdns-images.dzcdn.net/images/cover/e069892d14bac0cac8380f9a2c0169ec/264x264.jpg",
             "link": [
                 "https://youtu.be/8KVj2SF5CxU?list=PLVq1LX65RwEJZQDAiX0NC2YG9bA7_PdGO"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Megadeth - Peace Sells[/COLOR]",
+
+
+            "title": "Megadeth - Peace Sells",
             "thumbnail": "https://cdns-images.dzcdn.net/images/cover/e069892d14bac0cac8380f9a2c0169ec/264x264.jpg",
             "link": [
                 "https://youtu.be/rdEupVsL07E"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Megadeth - Poisonous Shadows[/COLOR]",
+
+
+            "title": "Megadeth - Poisonous Shadows",
             "thumbnail": "https://cdns-images.dzcdn.net/images/cover/e069892d14bac0cac8380f9a2c0169ec/264x264.jpg",
             "link": [
                 "https://youtu.be/unQZvhQ9Giw"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Megadeth - This Was My Life[/COLOR]",
+
+
+            "title": "Megadeth - This Was My Life",
             "thumbnail": "https://cdns-images.dzcdn.net/images/cover/e069892d14bac0cac8380f9a2c0169ec/264x264.jpg",
             "link": [
                 "https://youtu.be/DSCkkTqay_4?list=PLVq1LX65RwEJZQDAiX0NC2YG9bA7_PdGO"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Megadeth - Trust[/COLOR]",
+
+
+            "title": "Megadeth - Trust",
             "thumbnail": "https://cdns-images.dzcdn.net/images/cover/e069892d14bac0cac8380f9a2c0169ec/264x264.jpg",
             "link": [
                 "https://youtu.be/FDbG-Vt1PYs"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Metallica - Enter Sandman[/COLOR]",
+
+
+            "title": "Metallica - Enter Sandman",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Metallica_logo.png",
             "link": [
                 "https://youtu.be/CD-E-LDc384"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Metallica - Fade to Black[/COLOR]",
+
+
+            "title": "Metallica - Fade to Black",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Metallica_logo.png",
             "link": [
                 "https://youtu.be/FcoUvu0mGog"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Metallica - Master of Puppets[/COLOR]",
+
+
+            "title": "Metallica - Master of Puppets",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Metallica_logo.png",
             "link": [
                 "https://youtu.be/E0ozmU9cJDg"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Metallica - One[/COLOR]",
+
+
+            "title": "Metallica - One",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Metallica_logo.png",
             "link": [
                 "https://youtu.be/WM8bTdBs-cw"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Metallica - Sanitarium[/COLOR]",
+
+
+            "title": "Metallica - Sanitarium",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Metallica_logo.png",
             "link": [
                 "https://youtu.be/oAycSf8COQo"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Metallica - The Four Horseman[/COLOR]",
+
+
+            "title": "Metallica - The Four Horseman",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Metallica_logo.png",
             "link": [
                 "https://youtu.be/dFAxJd34ins"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Motley Crue - Bastard[/COLOR]",
+
+
+            "title": "Motley Crue - Bastard",
             "thumbnail": "https://images.squarespace-cdn.com/content/v1/59496a481b10e371ac6e294f/1610658361917-F8TEECSM9MYHNE83DI2T/1mTLc7.jpg",
             "link": [
                 "https://youtu.be/aajL0TC1HFE"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Motley Crue - Girls Girls Girls[/COLOR]",
+
+
+            "title": "Motley Crue - Girls Girls Girls",
             "thumbnail": "https://images.squarespace-cdn.com/content/v1/59496a481b10e371ac6e294f/1610658361917-F8TEECSM9MYHNE83DI2T/1mTLc7.jpg",
             "link": [
                 "http://104.251.123.41/Girls%20Girls%20Girls-Motley%20Crue.mp4"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Mötley Crüe - Looks That Kill[/COLOR]",
+
+
+            "title": "Mötley Crüe - Looks That Kill",
             "thumbnail": "https://images.squarespace-cdn.com/content/v1/59496a481b10e371ac6e294f/1610658361917-F8TEECSM9MYHNE83DI2T/1mTLc7.jpg",
             "link": [
                 "https://youtu.be/9wPHxQMgdKs?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Mötley Crüe - Red Hot[/COLOR]",
+
+
+            "title": "Mötley Crüe - Red Hot",
             "thumbnail": "https://images.squarespace-cdn.com/content/v1/59496a481b10e371ac6e294f/1610658361917-F8TEECSM9MYHNE83DI2T/1mTLc7.jpg",
             "link": [
                 "https://youtu.be/Oh7oXAtmzW0?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Motorhead - Ace of Spades[/COLOR]",
+
+
+            "title": "Motorhead - Ace of Spades",
             "thumbnail": "https://imotorhead.com/mh/wp-content/themes/imotorhead/images/homepage-header.jpg",
             "link": [
                 "https://youtu.be/3mbvWn1EY6g"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Motorhead - Hellraiser[/COLOR]",
+
+
+            "title": "Motorhead - Hellraiser",
             "thumbnail": "https://imotorhead.com/mh/wp-content/themes/imotorhead/images/homepage-header.jpg",
             "link": [
                 "https://youtu.be/1M4FG1UXH5w?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Motorhead - I'm So Bad (Baby I Don't Care)[/COLOR]",
+
+
+            "title": "Motorhead - I'm So Bad (Baby I Don't Care)",
             "thumbnail": "https://imotorhead.com/mh/wp-content/themes/imotorhead/images/homepage-header.jpg",
             "link": [
                 "https://youtu.be/0GI7LrSHYaU?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Motorhead - Iron Fist[/COLOR]",
+
+
+            "title": "Motorhead - Iron Fist",
             "thumbnail": "https://imotorhead.com/mh/wp-content/themes/imotorhead/images/homepage-header.jpg",
             "link": [
                 "https://youtu.be/wO14PALNMwM?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]MSG - Anytime[/COLOR]",
+
+
+            "title": "MSG - Anytime",
             "thumbnail": "https://th.bing.com/th/id/R.df2f70f7cdee4003428525888350ab46?rik=4hgORBV0ikGp%2bA&riu=http%3a%2f%2fwww.rockofages.uk.com%2fstock%2f38531.jpg&ehk=%2bQ42pAk2Ga%2bd59B7mRB%2fT4XL7jQ3UDZ08rDeG6%2fr7CY%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/8hvBfZosPKo?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Nickelback - Figured You Out[/COLOR]",
+
+
+            "title": "Nickelback - Figured You Out",
             "thumbnail": "https://th.bing.com/th/id/R.05151a0a8c14679c3cb528dcb0169eef?rik=IEnnnDNVgzuWIA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2faEWzxA6.jpg&ehk=NbNnaKxOWvgQK8oQz8gCFb2VrKkf7XC2LK6wlDFv8Vs%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/FIjRo-gMlKE?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Nickelback - This Means War[/COLOR]",
+
+
+            "title": "Nickelback - This Means War",
             "thumbnail": "https://th.bing.com/th/id/R.05151a0a8c14679c3cb528dcb0169eef?rik=IEnnnDNVgzuWIA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2faEWzxA6.jpg&ehk=NbNnaKxOWvgQK8oQz8gCFb2VrKkf7XC2LK6wlDFv8Vs%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/exlGc8eFXI0"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Night Ranger - Don't Tell Me You Love Me[/COLOR]",
+
+
+            "title": "Night Ranger - Don't Tell Me You Love Me",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzEzYTMxNjctMmZhZi00ZWI4LWI1YjMtZjk1ZWUxMzkyNGJhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg",
             "link": [
                 "https://youtu.be/e3IFVQhTqq4?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Orgy - Blue Monday[/COLOR]",
+
+
+            "title": "Orgy - Blue Monday",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmY0NWExMjEtMmRhYy00NThmLTgwNmEtMGZhZTZmMzUxOTcyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
             "link": [
                 "https://youtu.be/aJZTfl3DmCU?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Ozzy - Bark at the Moon[/COLOR]",
+
+
+            "title": "Ozzy - Bark at the Moon",
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1PyRmZ0OSCEYyY5EaHO-ASylw2iBpMwdkyvw3H2Fpw&usqp=CAU&ec=48665699",
             "link": [
                 "https://youtu.be/LplPi2CxNHI"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Ozzy - Crazy Train[/COLOR]",
+
+
+            "title": "Ozzy - Crazy Train",
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1PyRmZ0OSCEYyY5EaHO-ASylw2iBpMwdkyvw3H2Fpw&usqp=CAU&ec=48665699",
             "link": [
                 "https://youtu.be/FVovq9TGBw0"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Ozzy - Mr Crowley[/COLOR]",
+
+
+            "title": "Ozzy - Mr Crowley",
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1PyRmZ0OSCEYyY5EaHO-ASylw2iBpMwdkyvw3H2Fpw&usqp=CAU&ec=48665699",
             "link": [
                 "https://youtu.be/G3LvhdFEOqs"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Ozzy - Over the Mountain[/COLOR]",
+
+
+            "title": "Ozzy - Over the Mountain",
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1PyRmZ0OSCEYyY5EaHO-ASylw2iBpMwdkyvw3H2Fpw&usqp=CAU&ec=48665699",
             "link": [
                 "https://youtu.be/57k3AezB2HE"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Pantera - 5 Minutes Alone[/COLOR]",
+
+
+            "title": "Pantera - 5 Minutes Alone",
             "thumbnail": "https://preview.redd.it/ygvb4y306fn81.png?width=640&crop=smart&auto=webp&s=2ad17651bcc10d13838e78dbd99557ae72200cb4",
             "link": [
                 "https://youtu.be/7m7njvwB-Ks"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Pantera - Cemetery Gates[/COLOR]",
+
+
+            "title": "Pantera - Cemetery Gates",
             "thumbnail": "https://preview.redd.it/ygvb4y306fn81.png?width=640&crop=smart&auto=webp&s=2ad17651bcc10d13838e78dbd99557ae72200cb4",
             "link": [
                 "https://youtu.be/RVMvART9kb8"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Pantera - Cowboys From Hell[/COLOR]",
+
+
+            "title": "Pantera - Cowboys From Hell",
             "thumbnail": "https://preview.redd.it/ygvb4y306fn81.png?width=640&crop=smart&auto=webp&s=2ad17651bcc10d13838e78dbd99557ae72200cb4",
             "link": [
                 "https://youtu.be/i97OkCXwotE"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Pop Evil - The Boss's Daughter[/COLOR]",
+
+
+            "title": "Pop Evil - The Boss's Daughter",
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxPNdAtga6P-LzSofKawX9fmqrPKQr2DT2JA&usqp=CAU",
             "link": [
                 "https://youtu.be/eFOvZojUJto?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Prong - Rude Awakening[/COLOR]",
+
+
+            "title": "Prong - Rude Awakening",
             "thumbnail": "https://regenmag.com/wp-content/gallery/prong-interview/prong_rl_logo-final.jpg",
             "link": [
                 "https://youtu.be/eFOvZojUJto?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Prong - Snap Your Fingers Snap Your Neck[/COLOR]",
+
+
+            "title": "Prong - Snap Your Fingers Snap Your Neck",
             "thumbnail": "https://regenmag.com/wp-content/gallery/prong-interview/prong_rl_logo-final.jpg",
             "link": [
                 "https://youtu.be/VwUT1LTh7RE"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Queensryche - Eyes of a Stranger[/COLOR]",
+
+
+            "title": "Queensryche - Eyes of a Stranger",
             "thumbnail": "https://th.bing.com/th/id/R.d387abbf1a97b959524fc3108919e57c?rik=Dp91cy4%2bXL7M0w&riu=http%3a%2f%2fmetalassault.com%2fgig_reviews%2fwp-content%2fuploads%2f2012%2f11%2fqr.jpg&ehk=Fj1jeqrVqp4SoOer2wrUCIwKBSsj2lNVaoDxiiNKgwI%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/A4duZjxusGM?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Queensryche - I Don't Believe in Love[/COLOR]",
+
+
+            "title": "Queensryche - I Don't Believe in Love",
             "thumbnail": "https://th.bing.com/th/id/R.d387abbf1a97b959524fc3108919e57c?rik=Dp91cy4%2bXL7M0w&riu=http%3a%2f%2fmetalassault.com%2fgig_reviews%2fwp-content%2fuploads%2f2012%2f11%2fqr.jpg&ehk=Fj1jeqrVqp4SoOer2wrUCIwKBSsj2lNVaoDxiiNKgwI%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/2c3g6tTYoxM?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Rainbow - Man on the Silver Mountain[/COLOR]",
+
+
+            "title": "Rainbow - Man on the Silver Mountain",
             "thumbnail": "https://images6.alphacoders.com/304/thumb-1920-304736.jpg",
             "link": [
                 "https://youtu.be/IB2T6YkxMII"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Rainbow - All Night Long[/COLOR]",
+
+
+            "title": "Rainbow - All Night Long",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5e/Rainbow_All_Night_Long.jpeg",
             "link": [
                 "https://youtu.be/g2XDORONuuY?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Rainbow -- Street Of Dreams[/COLOR]",
+
+
+            "title": "Rainbow -- Street Of Dreams",
             "thumbnail": "https://i.discogs.com/_56TE9kI7NpAZSOf1hBljG1tRbzf1DleFm3kAQN5QqY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTAw/Ni0xNDQ3MDYzNzg5/LTIxMDcuanBlZw.jpeg",
             "link": [
                 "https://youtu.be/rQvu5Eo7rKI?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Rammstein: Paris - Du Hast[/COLOR]",
+
+
+            "title": "Rammstein: Paris - Du Hast",
             "thumbnail": "https://cache.desktopnexus.com/thumbseg/2566/2566699-bigthumbnail.jpg",
             "link": [
                 "https://youtu.be/U5HAEzEk8QM?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Randy Rhoads - Solos[/COLOR]",
+
+
+            "title": "Randy Rhoads - Solos",
             "thumbnail": "https://www.therockpit.net/wp-content/uploads/2017/03/news-randyrhoads-300x169.jpg",
             "link": [
                 "https://youtu.be/6fqbKVkhz6U?list=PLVq1LX65RwEL5Es-YrDgDYXWDijGR97IS"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Richie Faulkner - Organas Rage[/COLOR]",
+
+
+            "title": "Richie Faulkner - Organas Rage",
             "thumbnail": "https://i.ytimg.com/vi/_cviYaFU3RM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBzeU9tJZ30GDpqdOfAM92qNVs7sA",
             "link": [
                 "https://youtu.be/_cviYaFU3RM?list=PLVq1LX65RwEJvZrdmZzxAXI5U5IvID0hI"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Rush - 2112[/COLOR]",
+
+
+            "title": "Rush - 2112",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c9/Rush_2112.jpg",
             "link": [
                 "https://youtu.be/RtdKhwhAcd4"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Seether - Broken[/COLOR]",
+
+
+            "title": "Seether - Broken",
             "thumbnail": "https://vistapointe.net/images/seether-wallpaper-3.jpg",
             "link": [
                 "https://youtu.be/hPC2Fp7IT7o?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Seether - Driven Under[/COLOR]",
+
+
+            "title": "Seether - Driven Under",
             "thumbnail": "https://vistapointe.net/images/seether-wallpaper-3.jpg",
             "link": [
                 "https://youtu.be/QkJzemljk8s?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Seether - Fine Again[/COLOR]",
+
+
+            "title": "Seether - Fine Again",
             "thumbnail": "https://vistapointe.net/images/seether-wallpaper-3.jpg",
             "link": [
                 "https://youtu.be/ET3-t1jFmo0"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Shinedown - Monsters[/COLOR]",
+
+
+            "title": "Shinedown - Monsters",
             "thumbnail": "https://th.bing.com/th/id/R.1f23cf08b887515769a9ebf62d346d65?rik=f61XoRGSk69LsA&riu=http%3a%2f%2ftoddhancock.ca%2fwp-content%2fuploads%2f2015%2f04%2fshinedown_white.jpg&ehk=nVOcwcmUSP4dviVHEbcpmq29as7QizsegS8gnob37nk%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/J6sIK2KnhH8?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Slayer - Seasons in the Abyss[/COLOR]",
+
+
+            "title": "Slayer - Seasons in the Abyss",
             "thumbnail": "https://images.squarespace-cdn.com/content/v1/55ccf522e4b0fc9c2b651a5d/1439502210253-2OMTO5GGZ5MMO26T0HBE/Slayer_Social_Sharing_Logo.jpg",
             "link": [
                 "https://youtu.be/DECp8LKurKs"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Slipknot - Psychosocial[/COLOR]",
+
+
+            "title": "Slipknot - Psychosocial",
             "thumbnail": "https://yt3.googleusercontent.com/cE-tIwlhV3GFF6KbFz5ZUoJ1jCGE75Lvx7LcK4n2FyyVc67b_HPbFxxZELVvynvg4LVDP9lsrQ=s900-c-k-c0x00ffffff-no-rj",
             "link": [
                 "https://youtu.be/5abamRO41fE"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Slipknot - Snuff[/COLOR]",
+
+
+            "title": "Slipknot - Snuff",
             "thumbnail": "https://yt3.googleusercontent.com/cE-tIwlhV3GFF6KbFz5ZUoJ1jCGE75Lvx7LcK4n2FyyVc67b_HPbFxxZELVvynvg4LVDP9lsrQ=s900-c-k-c0x00ffffff-no-rj",
             "link": [
                 "https://youtu.be/LXEKuttVRIo"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Soundgarden - Rusty Cage[/COLOR]",
+
+
+            "title": "Soundgarden - Rusty Cage",
             "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71rRNAnVW6L._UF1000,1000_QL80_.jpg",
             "link": [
                 "https://youtu.be/pBZs_Py-1_0?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Staind - For You[/COLOR]",
+
+
+            "title": "Staind - For You",
             "thumbnail": "https://th.bing.com/th/id/OIP.xavt-GJY8vZUyapJ-vL4XwHaFR?pid=ImgDet&rs=1",
             "link": [
                 "https://youtu.be/JT8bhhDCPQc"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Staind - Outside[/COLOR]",
+
+
+            "title": "Staind - Outside",
             "thumbnail": "https://th.bing.com/th/id/OIP.xavt-GJY8vZUyapJ-vL4XwHaFR?pid=ImgDet&rs=1",
             "link": [
                 "https://youtu.be/mVQpfoqsY8Q?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Staind - So Far Away[/COLOR]",
+
+
+            "title": "Staind - So Far Away",
             "thumbnail": "https://th.bing.com/th/id/OIP.xavt-GJY8vZUyapJ-vL4XwHaFR?pid=ImgDet&rs=1",
             "link": [
                 "https://youtu.be/QCZXjB9DPl4?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Staind - Something to Remind You[/COLOR]",
+
+
+            "title": "Staind - Something to Remind You",
             "thumbnail": "https://th.bing.com/th/id/OIP.xavt-GJY8vZUyapJ-vL4XwHaFR?pid=ImgDet&rs=1",
             "link": [
                 "https://youtu.be/D9F244ztjxA?list=PLVq1LX65RwELl1i9T_pAAK_rHR-8Lvm7b"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Thin Lizzy - Cold Sweat[/COLOR]",
+
+
+            "title": "Thin Lizzy - Cold Sweat",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Thin_Lizzy_Logo.svg/2560px-Thin_Lizzy_Logo.svg.png",
             "link": [
                 "https://youtu.be/ukvyykA5m4Q?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]TRIUMPH - A WORLD OF FANTASY[/COLOR]",
+
+
+            "title": "TRIUMPH - A WORLD OF FANTASY",
             "thumbnail": "https://i.ytimg.com/vi/lBf7HhMU_Is/hqdefault.jpg",
             "link": [
                 "https://youtu.be/XfwJssBIHpc?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]TRIUMPH - Fight the Good Fight[/COLOR]",
+
+
+            "title": "TRIUMPH - Fight the Good Fight",
             "thumbnail": "https://i.ytimg.com/vi/lBf7HhMU_Is/hqdefault.jpg",
             "link": [
                 "https://youtu.be/OvOMyXOy_uk?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Tom MacDonald - America[/COLOR]",
+
+
+            "title": "Tom MacDonald - America",
             "thumbnail": "https://media.tenor.com/l6AFrqRAQisAAAAd/tom-macdonald.gif",
             "link": [
                 "https://youtu.be/RV7oI_Z68Pk"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Tom MacDonald - Brainwashed[/COLOR]",
+
+
+            "title": "Tom MacDonald - Brainwashed",
             "thumbnail": "https://media.tenor.com/l6AFrqRAQisAAAAd/tom-macdonald.gif",
             "link": [
                 "https://youtu.be/zCBNwGHPZ2M"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Tom MacDonald - End of the World[/COLOR]",
+
+
+            "title": "Tom MacDonald - End of the World",
             "thumbnail": "https://media.tenor.com/l6AFrqRAQisAAAAd/tom-macdonald.gif",
             "link": [
                 "https://youtu.be/H1kLQ7yfY0I"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Tom MacDonald - People So Stupid[/COLOR]",
+
+
+            "title": "Tom MacDonald - People So Stupid",
             "thumbnail": "https://media.tenor.com/l6AFrqRAQisAAAAd/tom-macdonald.gif",
             "link": [
                 "https://youtu.be/I6FmwBPDT-w"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Tom MacDonald - Straight White Male[/COLOR]",
+
+
+            "title": "Tom MacDonald - Straight White Male",
             "thumbnail": "https://media.tenor.com/l6AFrqRAQisAAAAd/tom-macdonald.gif",
             "link": [
                 "https://youtu.be/omMpqbuyDdc"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Tom MacDonald - The System[/COLOR]",
+
+
+            "title": "Tom MacDonald - The System",
             "thumbnail": "https://media.tenor.com/l6AFrqRAQisAAAAd/tom-macdonald.gif",
             "link": [
                 "https://youtu.be/OshNahVo9-c"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Tool - Sober[/COLOR]",
+
+
+            "title": "Tool - Sober",
             "thumbnail": "https://www.digitalmusicnews.com/wp-content/uploads/2018/03/7c8a239b6619403ea8120b49e9e7c73a.jpg",
             "link": [
                 "https://youtu.be/nspxAG12Cpc"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Van Halen - Ain't Talkin' 'Bout Love[/COLOR]",
+
+
+            "title": "Van Halen - Ain't Talkin' 'Bout Love",
             "thumbnail": "https://th.bing.com/th/id/R.153515a6babddee86ce438656fe03ed9?rik=LOOtDSFxN9m%2f8g&riu=http%3a%2f%2f2.bp.blogspot.com%2f_0x7xKHOt0Ew%2fTGm2iDkW7XI%2fAAAAAAAAAbY%2fg38rk-K3XcM%2fs1600%2f%5bAllCDCovers%5d_van_halen_van_halen_1990_retail_cd-front.jpg&ehk=zBnmBsTFO5SHG18%2b1LB0unRpqcfdcIkrpPorHOmpOCA%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/qtwBFz6lfrY?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Van Halen - Atomic Punk[/COLOR]",
+
+
+            "title": "Van Halen - Atomic Punk",
             "thumbnail": "https://th.bing.com/th/id/R.153515a6babddee86ce438656fe03ed9?rik=LOOtDSFxN9m%2f8g&riu=http%3a%2f%2f2.bp.blogspot.com%2f_0x7xKHOt0Ew%2fTGm2iDkW7XI%2fAAAAAAAAAbY%2fg38rk-K3XcM%2fs1600%2f%5bAllCDCovers%5d_van_halen_van_halen_1990_retail_cd-front.jpg&ehk=zBnmBsTFO5SHG18%2b1LB0unRpqcfdcIkrpPorHOmpOCA%3d&risl=&pid=ImgRaw&r=0",
             "link": [
                 "https://youtu.be/_2JTCd_lLOg?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]WASP - Animal[/COLOR]",
+
+
+            "title": "WASP - Animal",
             "thumbnail": "https://hairbands.xyz/wp-content/uploads/wasp-band-cover-logo.jpg",
             "link": [
                 "https://youtu.be/pxHl3gr-WMM"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]WASP - Hellion[/COLOR]",
+
+
+            "title": "WASP - Hellion",
             "thumbnail": "https://hairbands.xyz/wp-content/uploads/wasp-band-cover-logo.jpg",
             "link": [
                 "https://youtu.be/KGjZNwMwHZ0?list=PLVq1LX65RwEK_k7SjLWgRv6y2dp9Cz4y7"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]WASP - The Torture Never Stops[/COLOR]",
+
+
+            "title": "WASP - The Torture Never Stops",
             "thumbnail": "https://hairbands.xyz/wp-content/uploads/wasp-band-cover-logo.jpg",
             "link": [
                 "https://youtu.be/enhG5mz6_SM?list=PLVq1LX65RwEK_k7SjLWgRv6y2dp9Cz4y7"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]WASP - Widowmaker[/COLOR]",
+
+
+            "title": "WASP - Widowmaker",
             "thumbnail": "https://hairbands.xyz/wp-content/uploads/wasp-band-cover-logo.jpg",
             "link": [
                 "https://youtu.be/KgjMzYP20Qg?list=PLVq1LX65RwEK_k7SjLWgRv6y2dp9Cz4y7"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]WASP - Wild Child[/COLOR]",
+
+
+            "title": "WASP - Wild Child",
             "thumbnail": "https://hairbands.xyz/wp-content/uploads/wasp-band-cover-logo.jpg",
             "link": [
                 "https://youtu.be/TsoLb-E7oy8"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Zombie - Dragula[/COLOR]",
+
+
+            "title": "Zombie - Dragula",
             "thumbnail": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/rob-zombie-art-dragula-the-rocker-chic.jpg",
             "link": [
                 "https://youtu.be/EqQuihD0hoI"
-            ]
-        },
-		{
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Zombie - Electric Head Pt. 2[/COLOR]",
+
+
+            "title": "Zombie - Electric Head Pt. 2",
             "thumbnail": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/rob-zombie-art-dragula-the-rocker-chic.jpg",
             "link": [
                 "https://youtu.be/WdYvr2QpC3E"
-            ]
-        },
-        {
-            "type": "item",
-            "group": "Music",
-            "title": "[COLORred]Zombie - Superbeast[/COLOR]",
+
+
+            "title": "Zombie - Superbeast",
             "thumbnail": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/rob-zombie-art-dragula-the-rocker-chic.jpg",
             "link": [
                 "https://youtu.be/uHBtpqbOKXk"
-            ]
-        }
-    ]
-}
