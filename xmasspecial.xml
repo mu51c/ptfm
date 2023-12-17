@@ -6,7 +6,7 @@
     <title>Rock Christmas Songs</title>
     <link>plugin://plugin.video.youtube/playlist/PL7Sv7aQs2p0Uuu6vSLrsR1LpHCZRIyISr/</link>
     <thumbnail>https://i.ytimg.com/vi/94Ye-3C1FC8/hqdefault.jpg</thumbnail>
-    <fanart>https://mu51c.github.io/ptfm/extra/fanart.jpg</fanart>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
 </plugin>
 
@@ -14,7 +14,7 @@
     <title>Christmas Music</title>
     <link>plugin://plugin.video.youtube/playlist/PLR7sPawuzFmKc1Q0dFwbawJASpUo8Kggp/</link>
     <thumbnail>https://i.ytimg.com/vi/j3fSknbR7Y4/hqdefault.jpg</thumbnail>
-    <fanart>https://mu51c.github.io/ptfm/extra/fanart.jpg</fanart>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
 </plugin>
 
@@ -22,7 +22,7 @@
     <title>Top Christmas Hits</title>
     <link>plugin://plugin.video.youtube/playlist/PLkqz3S84Tw-Sg_5kur5nP3gQxZBSc3A5z/</link>
     <thumbnail>https://i.ytimg.com/vi/T_aiaYkcSDo/hqdefault.jpg</thumbnail>
-    <fanart>https://mu51c.github.io/ptfm/extra/fanart.jpg</fanart>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
 </plugin>
 
@@ -30,7 +30,7 @@
     <title>Best Pop Christmas</title>
     <link>plugin://plugin.video.youtube/playlist/PLzLmKWYW3AHd1uGgcDg98om9Bx48AtQEG/</link>
     <thumbnail>https://i.ytimg.com/vi/fRyhqobl0sk/hqdefault.jpg</thumbnail>
-    <fanart>https://mu51c.github.io/ptfm/extra/fanart.jpg</fanart>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
 </plugin>
 
@@ -38,6 +38,6 @@
     <title>Classics Christmas</title>
     <link>plugin://plugin.video.youtube/playlist/PLBN3i8jrg4Wze3v_KZRPFmnQrTw5jia61/</link>
     <thumbnail>https://i.ytimg.com/vi/t_xq3Bj_tas/hqdefault.jpg</thumbnail>
-    <fanart>https://mu51c.github.io/ptfm/extra/fanart.jpg</fanart>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
 </plugin>
