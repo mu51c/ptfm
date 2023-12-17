@@ -12,7 +12,7 @@
 
 <plugin>
     <title>AC/DC - Girls got Rhythm</title>
-    <link>plugin://plugin.video.youtube/playlist/GStgyL2Vt44?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq/</link>
+    <link>https://youtu.be/GStgyL2Vt44?list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
