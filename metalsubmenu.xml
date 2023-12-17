@@ -2,9 +2,6 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-
-
-
 <item>
     <title>[COLORlime]-= [COLORyellow]Metals Section [COLORlime]=-[/COLOR]</title>
     <link></link>
@@ -15,7 +12,7 @@
 
 <dir>
     <title>Music Videos</title>
-    <link>https://mu51c.github.io/ptfm/ptfm/metmusvids.xml</link>
+    <link>https://mu51c.github.io/ptfm/metmusvids.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>

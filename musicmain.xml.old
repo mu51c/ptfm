@@ -12,7 +12,7 @@
 
 <dir>
     <title>[I][B][COLORlime] The Music One Clicks [COLORyellow] Of One Clicks. LOL [/COLOR][/I][/B]</title>
-    <link>https://mu51c.github.io/ptfm/ptfm/metalsubmenu.xml</link>
+    <link>https://mu51c.github.io/ptfm/metalsubmenu.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
@@ -20,7 +20,7 @@
 
 <dir>
     <title>CONCERTS Youtube & Free One Clicks</title>
-    <link>https://mu51c.github.io/ptfm/ptfm/concerts.xml</link>
+    <link>https://mu51c.github.io/ptfm/concerts.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
@@ -28,28 +28,28 @@
 
 <dir>
     <name>Music Videos Youtube & Free One Clicks</name>
-    <link>https://mu51c.github.io/ptfm/ptfm/musicvideos.xml</link>
+    <link>https://mu51c.github.io/ptfm/musicvideos.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </dir>
 
 <dir>
 	<name>Music Movies Youtube & Free One Clicks</name>
-	<link>https://mu51c.github.io/ptfm/ptfm/musicmovies.xml</link>
+	<link>https://mu51c.github.io/ptfm/musicmovies.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </dir>
 
 <dir>
     <name>Radio</name>
-    <link>https://mu51c.github.io/ptfm/ptfm/radio.xml</link>
+    <link>https://mu51c.github.io/ptfm/radio.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </dir>
 
 <dir>
     <title>Music 24/7</title>
-    <link>https://mu51c.github.io/ptfm/ptfm/tf7.xml</link>
+    <link>https://mu51c.github.io/ptfm/tf7.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
@@ -57,7 +57,7 @@
 
 <dir>
     <title>TEST</title>
-    <link>https://mu51c.github.io/ptfm/ptfm/test.xml</link>
+    <link>https://mu51c.github.io/ptfm/test.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>

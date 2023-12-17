@@ -7,7 +7,7 @@
 
 <dir>
     <title>Metal Videos</title>
-    <link>https://mu51c.github.io/ptfm/ptfm/metalvids.xml</link>
+    <link>https://mu51c.github.io/ptfm/metalvids.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
@@ -15,7 +15,7 @@
 
 <dir>
     <title>Music Choice</title>
-    <link>https://mu51c.github.io/ptfm/ptfm/musicchoice.xml</link>
+    <link>https://mu51c.github.io/ptfm/musicchoice.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
@@ -23,7 +23,7 @@
 
 <dir>
     <title>Musics Videos / Dance</title>
-    <link>https://mu51c.github.io/ptfm/ptfm/musicvidsdance.xml</link>
+    <link>https://mu51c.github.io/ptfm/musicvidsdance.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
