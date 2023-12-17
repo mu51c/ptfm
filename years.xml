@@ -1,0 +1,58 @@
+
+
+
+
+
+{
+    "items": [     
+        {
+            "type": "dir", 
+            "title": "60s Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/60s", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "dir", 
+            "title": "70s Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/70s", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "dir", 
+            "title": "80s Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/80s", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "dir", 
+            "title": "90s Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/90s", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "dir", 
+            "title": "00s Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/oos", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "dir", 
+            "title": "10s Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/10s", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "dir", 
+            "title": "20s Music Videos YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/20s", 
+            "thumbnail": "", 
+            "fanart": ""
+        }
+    ]
+}

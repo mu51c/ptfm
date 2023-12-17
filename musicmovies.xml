@@ -1,0 +1,44 @@
+
+
+
+
+
+{
+    "items": [ 
+        {
+            "type": "plugin", 
+            "title": "Classic Musical Movies", 
+            "link": "plugin.video.youtube/playlist/PL8Nn95jd6kYVouE2YjQT2oTwG7ZbAjak1", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/classicalmusicalmovieslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        },         
+        {
+            "type": "plugin", 
+            "title": "MUSICAL MOVIES FREE", 
+            "link": "plugin.video.youtube/playlist/PLKDsBjdawnpZeu37KtB5DTGc6_V997Lem", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/musicalmovieslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Old Movies", 
+            "link": "plugin.video.youtube/playlist/PL7Y-ri7Y2odOGaiH_ojno5aZIjjB7ADYi", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/oldmovieslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Full Broadway Shows", 
+            "link": "plugin.video.youtube/playlist/PL9kgdb7Eid2zvLXVlUFPJO57fXUzOglmQ", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/fullbroadwaymovieslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        },         
+        {
+            "type": "plugin", 
+            "title": "Glorious MGM Musicals", 
+            "link": "plugin.video.youtube/playlist/PLb_5XmJW8Y_Ref58ZioFz-nGz_G-kbE1H", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/gloriousmgmmusicalslogo.png?raw=true", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png"
+        }
+    ]
+}

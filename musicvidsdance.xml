@@ -1,0 +1,486 @@
+
+
+
+
+
+{
+    "items": [
+        {
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Adele - Easy On Me[/COLOR]",
+            "thumbnail": "https://static01.nyt.com/images/2021/11/18/arts/18adele-review1/18adele-review1-mediumSquareAt3X.jpg",
+            "link": [
+                "https://youtu.be/U3ASj1L6_sY?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+			]	
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Adele - Set Fire To The Rain[/COLOR]",
+            "thumbnail": "https://static01.nyt.com/images/2021/11/18/arts/18adele-review1/18adele-review1-mediumSquareAt3X.jpg",
+            "link": [
+                "https://youtu.be/Ri7-vnrJD3k?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+			]	
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Adele - Someone Like You[/COLOR]",
+            "thumbnail": "https://static01.nyt.com/images/2021/11/18/arts/18adele-review1/18adele-review1-mediumSquareAt3X.jpg",
+            "link": [
+                "https://youtu.be/hLQl3WQQoQ0?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+			]	
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Adele water under the bridge New York[/COLOR]",
+            "thumbnail": "https://static01.nyt.com/images/2021/11/18/arts/18adele-review1/18adele-review1-mediumSquareAt3X.jpg",
+            "link": [
+                "https://youtu.be/FMZUL0Fvcp4?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+			]	
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ariana Grande - 7 rings[/COLOR]",
+            "thumbnail": "https://images.bauerhosting.com/legacy/media/6012/9481/3612/b070/99fb/2e88/ariana-grande-best-music-video.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+            "link": [
+                "https://youtu.be/QYh6mYIJG2Y?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+			]	
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ariana Grande - breathin[/COLOR]",
+            "thumbnail": "https://images.bauerhosting.com/legacy/media/6012/9481/3612/b070/99fb/2e88/ariana-grande-best-music-video.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+            "link": [
+                "https://youtu.be/kN0iD0pI3o0?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+			]	
+        },
+        {
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ariana Grande, Miley Cyrus, Lana Del Rey - Don’t Call Me Angel[/COLOR]",
+            "thumbnail": "https://images.bauerhosting.com/legacy/media/6012/9481/3612/b070/99fb/2e88/ariana-grande-best-music-video.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+            "link": [
+                "https://youtu.be/leopt__ATR0?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ariana Grande - God is a woman[/COLOR]",
+            "thumbnail": "https://images.bauerhosting.com/legacy/media/6012/9481/3612/b070/99fb/2e88/ariana-grande-best-music-video.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+            "link": [
+                "https://youtu.be/kHLHSlExFis?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ariana Grande - no tears left to cry[/COLOR]",
+            "thumbnail": "https://images.bauerhosting.com/legacy/media/6012/9481/3612/b070/99fb/2e88/ariana-grande-best-music-video.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+            "link": [
+                "https://youtu.be/ffxKSjUwKdU?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ava Max - Freaking Me Out[/COLOR]",
+            "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6014326c1f114f0f24c8f08a/Ava-Max--Charlotte-Rutherford-/960x0.png?format=png&width=960",
+            "link": [
+                "https://youtu.be/3AKPaq0IaDk?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ava Max - Kings & Queens[/COLOR]",
+            "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6014326c1f114f0f24c8f08a/Ava-Max--Charlotte-Rutherford-/960x0.png?format=png&width=960",
+            "link": [
+                "https://youtu.be/jH1RNk8954Q?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ava Max - So Am I[/COLOR]",
+            "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6014326c1f114f0f24c8f08a/Ava-Max--Charlotte-Rutherford-/960x0.png?format=png&width=960",
+            "link": [
+                "https://youtu.be/SxGLPVvNjvY?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ava Max - Sweet but Psycho[/COLOR]",
+            "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6014326c1f114f0f24c8f08a/Ava-Max--Charlotte-Rutherford-/960x0.png?format=png&width=960",
+            "link": [
+                "https://youtu.be/WXBHCQYxwr0?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ava Max - Torn[/COLOR]",
+            "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6014326c1f114f0f24c8f08a/Ava-Max--Charlotte-Rutherford-/960x0.png?format=png&width=960",
+            "link": [
+                "https://youtu.be/wBmWvvTV0P4?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Bebe Rexha - I'm A Mess[/COLOR]",
+            "thumbnail": "https://www.movin925.com/wp-content/uploads/2021/03/M_BebeRexhaYouTube_030221.jpg",
+            "link": [
+                "https://youtu.be/LdH7aFjDzjI?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Bebe Rexha - Last Hurrah[/COLOR]",
+            "thumbnail": "https://www.movin925.com/wp-content/uploads/2021/03/M_BebeRexhaYouTube_030221.jpg",
+            "link": [
+                "https://youtu.be/cr9NEWOjuEg?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Bebe Rexha - Sacrifice[/COLOR]",
+            "thumbnail": "https://www.movin925.com/wp-content/uploads/2021/03/M_BebeRexhaYouTube_030221.jpg",
+            "link": [
+                "https://youtu.be/vTAOh1ARBOI?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Bebe Rexha - You Can't Stop The Girl[/COLOR]",
+            "thumbnail": "https://www.movin925.com/wp-content/uploads/2021/03/M_BebeRexhaYouTube_030221.jpg",
+            "link": [
+                "https://youtu.be/1DmwyNkmTJ0?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Cardi B & Bruno Mars - Please Me[/COLOR]",
+            "thumbnail": "https://people.com/thmb/yUFbVr3XSuk_epi4B7Pyto4w7tU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Cardi-B-2023-mtv-vmas-09122304-adf71a80245f4cd0977de46ed010e8d0.jpg",
+            "link": [
+                "https://youtu.be/3y-O-4IL-PU?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Charlie Puth - Attention[/COLOR]",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjUwZDBkNGUtNmFlMC00YTNjLWJmNWQtODZlMGZlNDAzYzlkXkEyXkFqcGdeQXVyOTE4Njc2NjY@._V1_.jpg",
+            "link": [
+                "https://youtu.be/nfs8NYg7yQM?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Charlie Puth - Cheating on You[/COLOR]",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjUwZDBkNGUtNmFlMC00YTNjLWJmNWQtODZlMGZlNDAzYzlkXkEyXkFqcGdeQXVyOTE4Njc2NjY@._V1_.jpg",
+            "link": [
+                "https://youtu.be/fOoSbUoayQE?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Charlie Puth - Mother[/COLOR]",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjUwZDBkNGUtNmFlMC00YTNjLWJmNWQtODZlMGZlNDAzYzlkXkEyXkFqcGdeQXVyOTE4Njc2NjY@._V1_.jpg",
+            "link": [
+                "https://youtu.be/jTMzLbz9_r0?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Charlie Puth - We Don't Talk Anymore[/COLOR]",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjUwZDBkNGUtNmFlMC00YTNjLWJmNWQtODZlMGZlNDAzYzlkXkEyXkFqcGdeQXVyOTE4Njc2NjY@._V1_.jpg",
+            "link": [
+                "https://youtu.be/3AtDnEC4zak?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Daya - Insomnia[/COLOR]",
+            "thumbnail": "https://images.squarespace-cdn.com/content/v1/5ec30c8c34d4f2202858b41c/1590139497079-0IFY3767HBLKC6X7GLRZ/Screen+Shot+2020-05-22+at+2.19.27+AM.png?format=500w",
+            "link": [
+                "https://youtu.be/JybV1mL6EMA?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ed Sheeran - Bad Habits[/COLOR]",
+            "thumbnail": "https://m.media-amazon.com/images/I/91UGgz5OKLL._AC_UF1000,1000_QL80_.jpg",
+            "link": [
+                "https://youtu.be/orJSJGHjBLI?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ed Sheeran - Overpass Graffiti[/COLOR]",
+            "thumbnail": "https://m.media-amazon.com/images/I/91UGgz5OKLL._AC_UF1000,1000_QL80_.jpg",
+            "link": [
+                "https://youtu.be/k6ZoE4RrcDs?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ed Sheeran - Perfect[/COLOR]",
+            "thumbnail": "https://m.media-amazon.com/images/I/91UGgz5OKLL._AC_UF1000,1000_QL80_.jpg",
+            "link": [
+                "https://youtu.be/2Vv-BfVoq4g?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ed Sheeran - Shivers[/COLOR]",
+            "thumbnail": "https://m.media-amazon.com/images/I/91UGgz5OKLL._AC_UF1000,1000_QL80_.jpg",
+            "link": [
+                "https://youtu.be/Il0S8BoucSA?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ed Sheeran - South of the Border[/COLOR]",
+            "thumbnail": "https://m.media-amazon.com/images/I/91UGgz5OKLL._AC_UF1000,1000_QL80_.jpg",
+            "link": [
+                "https://youtu.be/UPOT2tgY9QQ?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Ed Sheeran - Visiting Hours[/COLOR]",
+            "thumbnail": "https://m.media-amazon.com/images/I/91UGgz5OKLL._AC_UF1000,1000_QL80_.jpg",
+            "link": [
+                "https://youtu.be/t3CoEyYEf4A?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Hailee Steinfeld - Starving[/COLOR]",
+            "thumbnail": "https://static.wikia.nocookie.net/haileesteinfeld6916/images/6/68/Starving1.jpg/revision/latest?cb=20161024095740",
+            "link": [
+                "https://youtu.be/xwjwCFZpdns?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Jason Derulo, LAY, NCT 127 - Let's Shut Up & Dance[/COLOR]",
+            "thumbnail": "https://i.ytimg.com/vi/YBWgqb3KIeA/maxresdefault.jpg",
+            "link": [
+                "https://youtu.be/YBWgqb3KIeA?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Jason Derulo - Lifestyle[/COLOR]",
+            "thumbnail": "https://i.ytimg.com/vi/YBWgqb3KIeA/maxresdefault.jpg",
+            "link": [
+                "https://youtu.be/gTOYhxubOmk?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Jason Derulo x Nuka - Love Not War[/COLOR]",
+            "thumbnail": "https://i.ytimg.com/vi/YBWgqb3KIeA/maxresdefault.jpg",
+            "link": [
+                "https://youtu.be/fZMRc-UyPm0?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Jason Derulo - Swalla[/COLOR]",
+            "thumbnail": "https://i.ytimg.com/vi/YBWgqb3KIeA/maxresdefault.jpg",
+            "link": [
+                "https://youtu.be/NGLxoKOvzu4?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Jason Derulo - Take You Dancing[/COLOR]",
+            "thumbnail": "https://i.ytimg.com/vi/YBWgqb3KIeA/maxresdefault.jpg",
+            "link": [
+                "https://youtu.be/Uki_hD8Z_qw?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Jessie J - Bang Bang[/COLOR]",
+            "thumbnail": "https://lastfm.freetls.fastly.net/i/u/ar0/79ab83c69f642d9f901b74cc0f68d514.jpg",
+            "link": [
+                "https://youtu.be/0HDdjwpPM3Y?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Lady Gaga - Always Remember Us This Way[/COLOR]",
+            "thumbnail": "https://i.ytimg.com/vi/yZVVmoejHiY/maxresdefault.jpg",
+            "link": [
+                "https://youtu.be/5vheNbQlsyU?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Lizzo - Tempo[/COLOR]",
+            "thumbnail": "https://pyxis.nymag.com/v1/imgs/2fb/05b/692a5e2af14dd8b0e9b5ff28f5125c776f-26-lizzo-tempo.2x.rsocial.w600.jpg",
+            "link": [
+                "https://youtu.be/Srq1FqFPwj0?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Marshmello x Jonas Brothers - Leave Before You Love Me[/COLOR]",
+            "thumbnail": "https://i.ytimg.com/vi/hmUyEDG7Jy0/maxresdefault.jpg",
+            "link": [
+                "https://youtu.be/hmUyEDG7Jy0?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Nick Jonas - Close[/COLOR]",
+            "thumbnail": "https://i.ytimg.com/vi/XgJFqVvb2Ws/maxresdefault.jpg",
+            "link": [
+                "https://youtu.be/XgJFqVvb2Ws?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Post Malone - Circles[/COLOR]",
+            "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2019/09/post-malone.jpg",
+            "link": [
+                "https://youtu.be/wXhTHyIgQ_U?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Post Malone ft. 21 Savage - rockstar[/COLOR]",
+            "thumbnail": "https://static.spin.com/files/2017/11/Screen-Shot-2017-11-22-at-8.58.32-AM-1511359143.png",
+            "link": [
+                "https://youtu.be/UceaB4D0jpo?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Rihanna - Diamonds[/COLOR]",
+            "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1440237526-649729159e996.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+            "link": [
+                "https://youtu.be/lWA2pjMjpBs?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Rihanna - Disturbia[/COLOR]",
+            "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1440237526-649729159e996.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+            "link": [
+                "https://youtu.be/E1mU6h4Xdxc?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Rihanna - Don't Stop The Music[/COLOR]",
+            "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1440237526-649729159e996.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+            "link": [
+                "https://youtu.be/yd8jh9QYfEs?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Rihanna - Only Girl[/COLOR]",
+            "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1440237526-649729159e996.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+            "link": [
+                "https://youtu.be/pa14VNsdSYM"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Rihanna - Umbrella[/COLOR]",
+            "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1440237526-649729159e996.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+            "link": [
+                "https://youtu.be/CvBfHwUxHIk"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Selena Gomez - Lose You To Love Me[/COLOR]",
+            "thumbnail": "https://www.billboard.com/wp-content/uploads/2020/03/Selena-Gomez-Dance-Again-Performance-Video-2020-billboard-1548-1585241695.jpg",
+            "link": [
+                "https://youtu.be/KE12jhXAdws?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Selena Gomez - Dance Again[/COLOR]",
+            "thumbnail": "https://www.billboard.com/wp-content/uploads/2020/03/Selena-Gomez-Dance-Again-Performance-Video-2020-billboard-1548-1585241695.jpg",
+            "link": [
+                "https://youtu.be/YZ-LagCs6GA"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]The Weeknd - Can't Feel My Face[/COLOR]",
+            "thumbnail": "https://i.ytimg.com/vi/s6kNtb6qL8Y/maxresdefault.jpg",
+            "link": [
+                "https://youtu.be/KEI4qSrkPAs?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]twenty one pilots: Heathens[/COLOR]",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz39zDD7qruhOKB7XCzV9ZE83UzDzdZBmDIg&usqp=CAU",
+            "link": [
+                "https://youtu.be/UprcpdwuwCg?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        },
+		{
+            "type": "item",
+            "group": "Music",
+            "title": "[COLORyellow]Usher - I Cry[/COLOR]",
+            "thumbnail": "https://i.ytimg.com/vi/Nag1L8OYY-4/maxresdefault.jpg",
+            "link": [
+                "https://youtu.be/ulqyG0DbAGA?list=PLVq1LX65RwEI16MJbYGGPOxdQPH-_6nJ3"
+            ]
+        }
+    ]
+}

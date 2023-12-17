@@ -1,0 +1,17 @@
+
+
+
+
+
+            "type": "dir", 
+            "title": "Youtube Full Movies", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/ytmovies", 
+            "thumbnail": "", 
+            "fanart": ""
+        },
+        {
+            "type": "dir", 
+            "title": "Bonus for the Oldies YT", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/bonusoldies", 
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/BFTOldieslogo.png?raw=true", 
+            "fanart": ""
