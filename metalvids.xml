@@ -2,17 +2,17 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-<plugin>
+<item>
     <title>AC/DC - Dirty Deeds Done Dirt Cheap</title>
     <link>https://youtu.be/9v8pAxWL6C4</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
-</plugin>
+</item>
 
 <plugin>
     <title>AC/DC - Girls got Rhythm</title>
-    <link>plugin://plugin.video.youtube/playlist/PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq/</link>
+    <link>plugin://plugin.video.youtube/playlist/GStgyL2Vt44/</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
