@@ -4,7 +4,7 @@
 
 <plugin>
     <title>AC/DC - Dirty Deeds Done Dirt Cheap</title>
-    <link>plugin://plugin.video.youtube/https://youtu.be/9v8pAxWL6C4</link>
+    <link>https://youtu.be/9v8pAxWL6C4</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
@@ -12,7 +12,7 @@
 
 <plugin>
     <title>AC/DC - Girls got Rhythm</title>
-    <link>plugin://plugin.video.youtube/https://www.youtube.com/watch?v=GStgyL2Vt44&list=PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq</link>
+    <link>plugin://plugin.video.youtube/playlist/PLVq1LX65RwEK0aVJBLkNAtDLD62z8Nmhq/</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
     <content></content>
