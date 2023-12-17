@@ -1,0 +1,23 @@
+<dir>
+    <title>Metal Videos</title>
+    <link>https://www.midian.appboxes.co/wolfyB/Th3L48/text/ptfm/metalvids.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+    <content></content>
+</dir>
+
+<dir>
+    <title>Music Choice</title>
+    <link>https://www.midian.appboxes.co/wolfyB/Th3L48/text/ptfm/musicchoice.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+    <content></content>
+</dir>
+
+<dir>
+    <title>Musics Videos / Dance</title>
+    <link>https://www.midian.appboxes.co/wolfyB/Th3L48/text/ptfm/musicvidsdance.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+    <content></content>
+</dir>
