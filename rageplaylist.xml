@@ -2,6 +2,15 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
+
+<plugin>
+    <title>Pop Music</title>
+    <link>plugin://plugin.video.youtube/playlist/PLMC9KNkIncKtPzgY-5rmhvj7fax8fdxoj/</link>
+    <thumbnail>https://www.midian.appboxes.co/wolfyB/Th3L48/text/extra/icon.png</thumbnail>
+    <fanart>https://www.midian.appboxes.co/wolfyB/Th3L48/text/extra/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
 <plugin>
 	<title>FEATURE VIDEOS</title>
 	<link>plugin://plugin.video.youtube/playlist/PLWX6lVDhnhcLUo6L5PCwPKjIbPv2fKCzp/</link>
