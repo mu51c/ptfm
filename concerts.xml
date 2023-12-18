@@ -2,8 +2,37 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
+<dir>
+    <title>One Click Concerts</title>
+    <link>https://mu51c.github.io/ptfm/concertsoneclick.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+    <content></content>
+</dir>
 
+<dir>
+    <title>All things concerts</title>
+    <link>https://mu51c.github.io/ptfm/allthingsconcerts.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+    <content></content>
+</dir>
 
+<plugin>
+    <title>4K Concerts Playlist YT</title>
+    <link>plugin://plugin.video.youtube/playlist/PLL_UCi3tgYwQddQqOlMsX6ZeubyQtGtcc</link>
+    <thumbnail>https://www.midian.appboxes.co/wolfyB/Th3L48/text/extra/icon.png</thumbnail>
+    <fanart>https://www.midian.appboxes.co/wolfyB/Th3L48/text/extra/fanart.jpg</fanart>
+    <content></content>
+</plugin>
+
+<plugin>
+    <title>HD Concerts Playlist YT</title>
+    <link>plugin://plugin.video.youtube/playlist/PLgTorTVCekZhQesUUZRLh_FKEZjaovpJi</link>
+    <thumbnail>https://www.midian.appboxes.co/wolfyB/Th3L48/text/extra/icon.png</thumbnail>
+    <fanart>https://www.midian.appboxes.co/wolfyB/Th3L48/text/extra/fanart.jpg</fanart>
+    <content></content>
+</plugin>
 
             "type": "dir", 
             "title": "One Click Concerts", 
