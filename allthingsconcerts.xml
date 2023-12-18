@@ -2,27 +2,6 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-<dir>
-<title>ABC RAGE (Aussie Music Show)</title>
-<link>https://mu51c.github.io/ptfm/rageplaylist.xml</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c1/Rage_tv_logo.png</thumbnail>
-<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
-</dir>
-
-<dir>
-<title>Added 22 01 2021</title>
-<link>https://mu51c.github.io/ptfm/added22012021.xml</link>
-<thumbnail>https://static01.nyt.com/images/2020/03/12/arts/12virus-concerts2/merlin_170369790_63d02a4c-82f8-441a-ac7c-c395828b7961-mobileMasterAt3x.jpg</thumbnail>
-<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
-</dir>
-
-<dir>
-<title>Qello Concerts</title>
-<link>https://mu51c.github.io/ptfm/qelloconcerts.xml</link>
-<thumbnail>https://lh3.googleusercontent.com/AUw3u_a1H_Zbt2UMiyGqhrQWRUZiqTGscS08CUiFSD96ouGvACrvnYJxI2XDLggFpQ</thumbnail>
-<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
-</dir>
-
 <item>
 <title>It was a good day" 90´s Live Hip Hop Playlist - Beats by Dr. Dre</title>
 <link>https://youtu.be/COeTubJaQ7o</link>
