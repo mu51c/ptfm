@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+            "type": "plugin", 
+            "title": "80s Hidden Gems", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4Ha91yjxrp2a0fEcsIc0rD", 
+            "thumbnail": "https://i.ytimg.com/vi/Fbq7Ml89cuw/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "80s forgotten hits", 
+            "link": "plugin.video.youtube/playlist/PLdiEFGljrWUz1FVxUa03M0Tz6H9agN69s", 
+            "thumbnail": "https://i.ytimg.com/vi/ZlCCva6rr-s/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "BEST OF THE 80s", 
+            "link": "plugin.video.youtube/playlist/Ld9auH4JIHvupoMgW5YfOjqtj6Lih0MKw", 
+            "thumbnail": "https://i.ytimg.com/vi/9OFpfTd0EIs/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Billboard Top Songs of the 80s", 
+            "link": "plugin.video.youtube/playlist/PL_3moN-ayKSTx9GWQtNowcjnsAoYQidwR", 
+            "thumbnail": "https://i.ytimg.com/vi/eNvUS-6PTbs/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "80s Playlist Greatest Hits", 
+            "link": "plugin.video.youtube/playlist/PLCD0445C57F2B7F41", 
+            "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "13 plus hours of top hits from the 1980s", 
+            "link": "plugin.video.youtube/playlist/PLpYWKGMgRA1uU9lyMtR8vQBzc4HrjpqYu", 
+            "thumbnail": "https://i.ytimg.com/vi/qeMFqkcPYcg/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "80s Music Video Channel", 
+            "link": "plugin.video.youtube/playlist/PLjB-wurbnZxUY8WEq6iu-A45Bt_EjXvDX", 
+            "thumbnail": "https://i.ytimg.com/vi/5IsSpAOD6K8/hqdefault.jpg", 
+            "fanart": ""
+        }
+    ]
+}

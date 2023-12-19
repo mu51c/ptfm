@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+            "type": "plugin", 
+            "title": "Best Songs of the decade", 
+            "link": "plugin.video.youtube/playlist/PLomnF-6GejKEfXSEvgnjJtFB4C7P0e9kj", 
+            "thumbnail": "https://i.ytimg.com/vi/Sv6dMFF_yts/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Top 10s in Music", 
+            "link": "plugin.video.youtube/playlist/PLmZTDWJGfRq2nSrdQVvf2O9i_cKZP2nqV", 
+            "thumbnail": "https://i.ytimg.com/vi/6tCmJ95lNME/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Best Songs From 10s", 
+            "link": "plugin.video.youtube/playlist/PLloAeJs2PTgrWKr-6w1_5eIMqzG3SV8Zi", 
+            "thumbnail": "https://i.ytimg.com/vi/rYEDA3JcQqw/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Alternative rock of the 2010s", 
+            "link": "plugin.video.youtube/playlist/PL6Lt9p1lIRZ3m2X1Ur8ykG1XRGPFsTsbD", 
+            "thumbnail": "https://i.ytimg.com/vi/8UVNT4wvIGY/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Best Rap & HipHop Songs 2010-2019.", 
+            "link": "plugin.video.youtube/playlist/PLplXQ2cg9B_pdAfL7DA4N2n-SuXm2G0RA", 
+            "thumbnail": "https://i.ytimg.com/vi/UceaB4D0jpo/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Every UK Number One Of The 2010s", 
+            "link": "plugin.video.youtube/playlist/PL9orjJKlfGc8JcqHYk96CxFDW1jtsBhZi", 
+            "thumbnail": "https://i.ytimg.com/vi/jEca0ZnzOKw/hqdefault.jpg", 
+            "fanart": ""
+        }
+    ]
+}

@@ -2,59 +2,51 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
+<dir>
+    <title>60s Music Videos YT</title>
+    <link>https://mu51c.github.io/ptfm/mv60.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
 
+<dir>
+    <title>70s Music Videos YT</title>
+    <link>https://mu51c.github.io/ptfm/mv70.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
 
+<dir>
+    <title>80s Music Videos YT</title>
+    <link>https://mu51c.github.io/ptfm/mv80.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
 
-{
-    "items": [     
-        {
-            "type": "dir", 
-            "title": "60s Music Videos YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/60s", 
-            "thumbnail": "", 
-            "fanart": ""
-        },
-        {
-            "type": "dir", 
-            "title": "70s Music Videos YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/70s", 
-            "thumbnail": "", 
-            "fanart": ""
-        },
-        {
-            "type": "dir", 
-            "title": "80s Music Videos YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/80s", 
-            "thumbnail": "", 
-            "fanart": ""
-        },
-        {
-            "type": "dir", 
-            "title": "90s Music Videos YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/90s", 
-            "thumbnail": "", 
-            "fanart": ""
-        },
-        {
-            "type": "dir", 
-            "title": "00s Music Videos YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/oos", 
-            "thumbnail": "", 
-            "fanart": ""
-        },
-        {
-            "type": "dir", 
-            "title": "10s Music Videos YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/10s", 
-            "thumbnail": "", 
-            "fanart": ""
-        },
-        {
-            "type": "dir", 
-            "title": "20s Music Videos YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/20s", 
-            "thumbnail": "", 
-            "fanart": ""
-        }
-    ]
-}
+<dir>
+    <title>90s Music Videos YT</title>
+    <link>https://mu51c.github.io/ptfm/mv90.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>00s Music Videos YT</title>
+    <link>https://mu51c.github.io/ptfm/mv00.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>10s Music Videos YT</title>
+    <link>https://mu51c.github.io/ptfm/mv10.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
+
+<dir>
+    <title>20s Music Videos YT</title>
+    <link>https://mu51c.github.io/ptfm/mv20.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>

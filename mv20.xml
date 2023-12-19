@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+            "type": "plugin", 
+            "title": "Best Music 2000 to 2023 ", 
+            "link": "plugin.video.youtube/playlist/PLWUuMxUJvnuKDF9DncRGZPKssW0G7uyLi", 
+            "thumbnail": "https://i.ytimg.com/vi/Io0fBr1XBUA/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "2020 Chart", 
+            "link": "plugin.video.youtube/playlist/PLfWTbASpwTDiVOkVmOU2QA97pFtR0fXj6", 
+            "thumbnail": "https://i.ytimg.com/vi/4NRXx6U8ABQ/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "2021 Chart", 
+            "link": "plugin.video.youtube/playlist/PL2vrmw2gup2Lr8ULddGUBo5w2G9RRF_Ec", 
+            "thumbnail": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "2022 Chart", 
+            "link": "plugin.video.youtube/playlist/PLFI4VRJeIyw3fDbrTa_M864mYNXqZ6t7A", 
+            "thumbnail": "https://i.ytimg.com/vi/MxjrsDV8Aeo/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "2023 Chart", 
+            "link": "plugin.video.youtube/playlist/PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU", 
+            "thumbnail": "https://i.ytimg.com/vi/m4_9TFeMfJE/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Top 100 Songs 2021 to 2023", 
+            "link": "plugin.video.youtube/playlist/PLOhV0FrFphUflB1Ee8CPmPhJVNb0nfMii", 
+            "thumbnail": "https://i.ytimg.com/vi/iz1rIp1-b-Y/hqdefault.jpg", 
+            "fanart": ""
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+            "type": "plugin", 
+            "title": "90s Hidden Gems Playlist YT", 
+            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5YmthdJhinsjjl048UTMe5", 
+            "thumbnail": "https://i.ytimg.com/vi/W8oa790RFUU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDmjMEICDUd65qJVe-CiSQmTuwzPA", 
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
+        },
+        {
+            "type": "plugin", 
+            "title": "Now: 100 Hits: Forgotten 90s", 
+            "link": "plugin.video.youtube/playlist/PL2BiE_4h8TpweZvqv0pFJJsPpCQH0Tklj", 
+            "thumbnail": "https://i.ytimg.com/vi/y2Eah_EGiDc/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "90s Hits - Greatest 1990s Music Hits", 
+            "link": "plugin.video.youtube/playlist/PL7DA3D097D6FDBC02", 
+            "thumbnail": "https://i.ytimg.com/vi/6NXnxTNIWkc/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Greatest Radio Hits of the 90s", 
+            "link": "plugin.video.youtube/playlist/PLZyqOyXxaVETqpHhT_c5GPmAPzhJpJ5K7", 
+            "thumbnail": "https://i.ytimg.com/vi/Zzyfcys1aLM/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "90s one hit wonders", 
+            "link": "plugin.video.youtube/playlist/PLmzT7Q_MSthLrswE7TTY7fOxPU_JxJu5O", 
+            "thumbnail": "https://i.ytimg.com/vi/1lyu1KKwC74/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "90s Female Singers", 
+            "link": "plugin.video.youtube/playlist/PLrtrE2400RYZhOVw3aHpF2Ez7O7dPvSFd", 
+            "thumbnail": "https://i.ytimg.com/vi/qq09UkPRdFY/hqdefault.jpg", 
+            "fanart": ""
+        },
+        {
+            "type": "plugin", 
+            "title": "Most Viewed 90s Music Videos", 
+            "link": "plugin.video.youtube/playlist/PLyqXsO_d0hU1mFaVq4Stem5NiyA6V-qM5", 
+            "thumbnail": "https://i.ytimg.com/vi/8SbUC-UaAxE/hqdefault.jpg", 
+            "fanart": ""
+        }
+    ]
+}
