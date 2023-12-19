@@ -90,7 +90,7 @@
 <plugin>
     <title>Upchurch</title>
     <link>plugin.video.youtube/playlist/PL0dDlKSElceFt3nYNotFqfx9rwV6PreLB/</link>
-    <thumbnail>https://iscale.iheart.com/catalog/artist/30611580/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</link>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
 </plugin>
 
@@ -139,7 +139,7 @@
 <plugin>
     <title>Grateful Dead</title>
     <link>plugin.video.youtube/playlist/PLD813B9E40CEDFB48/</link>
-    <thumbnail>https://i.scdn.co/image/4c000d838221db17a95ec272d79c06560829ab11/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</link>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
 </plugin>
 
@@ -286,7 +286,7 @@
 <plugin>
     <title>The Who</title>
     <link>plugin.video.youtube/playlist/PLB2359E68D19BA3C0/</link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Who_in_1965.png/220px-The_Who_in_1965.png/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</link>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
 </plugin>
 
@@ -300,7 +300,7 @@
 <plugin>
     <title>3 Doors Down</title>
     <link>plugin.video.youtube/playlist/PLE8882827DC004972/</link>
-    <thumbnail>https://www.songwritingmagazine.co.uk/wp-content/uploads/3-doors-down-1-by-dove-shore.jpg.webp/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</link>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
 </plugin>
 
@@ -706,7 +706,7 @@
 <plugin>
     <title>Misfits</title>
     <link>plugin.video.youtube/playlist/PLVgGT_m10yKKkWm0y1mwyldgF__pLIh1v/</link>
-    <thumbnail>https://www.starnewsonline.com/gcdn/authoring/2013/12/03/NSTN/ghows-NC-93eda0f4-9844-4e49-8564-f2417f71fdc8-2bf22e3d.jpeg/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</link>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
 </plugin>
 
