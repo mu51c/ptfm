@@ -2,24 +2,857 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
+
 <plugin>
-<title>Tom MacDonald</title>
-<link>plugin://plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr/</link>
-<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
-<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+    <title>Tom MacDonald</title>
+    <link>plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BZWZiYjU5ODktNzIxNC00NDg1LTlhNzktNDY1OTgxNmEyMWZkXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_FMjpg_UX1000_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
 </plugin>
 
 <plugin>
-<title>Tom MacDonald</title>
-<link> https://www.youtube.com/watch?v=OshNahVo9-c&list=PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr&index=15</link>
-<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
-<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+    <title>Ed Sheeran</title>
+    <link>plugin.video.youtube/playlist/PLH583WMsSz85HljEkmsdJeF4-OWjwg6By/</link>
+    <thumbnail>https://i.ytimg.com/vi/Ix9NXVIbm2A/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
 </plugin>
 
 <plugin>
-    <title>4K Concerts Playlist YT</title>
-    <link>plugin://plugin.video.youtube/playlist/PLL_UCi3tgYwQddQqOlMsX6ZeubyQtGtcc/</link>
-    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
-    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
-    <content></content>
+    <title>Nicki Minaj</title>
+    <link>plugin.video.youtube/playlist/PL3j4rgUz7939Y9PMZAfIvPxDCbOGl_Kvf/</link>
+    <thumbnail>https://i.ytimg.com/vi/LDZX4ooRsWs/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Pink</title>
+    <link>plugin.video.youtube/playlist/PLq3UZa7STrbpX13PljcNH6hmyrSbcMYK8/</link>
+    <thumbnail>https://i.ytimg.com/vi/wGj9oADcyRs/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Shania Twain</title>
+    <link>plugin.video.youtube/playlist/PLEH_MKt4utKlB-ts75mjlztpKqiKbRyqy/</link>
+    <thumbnail>https://i.ytimg.com/vi/GMul1ZBdRmc/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Shakira</title>
+    <link>plugin.video.youtube/playlist/PL4324C6BD2E9BA7F8/</link>
+    <thumbnail>https://i.ytimg.com/vi/6Mgqbai3fKo/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Christina Aguilera</title>
+    <link>plugin.video.youtube/playlist/PLEH_MKt4utKlKiD0EhmQKRLVLuG0mEF_b/</link>
+    <thumbnail>https://i.ytimg.com/vi/kIDWgqDBNXA/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Lionel Richie</title>
+    <link>plugin.video.youtube/playlist/PLUhqFX6g_9Ne7pvZaLtc_ApAY8sQZ66mP/</link>
+    <thumbnail>https://i.ytimg.com/vi/nqAvFx3NxUM/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Linkin Park</title>
+    <link>plugin.video.youtube/playlist/PL6E93C5292B5486F6/</link>
+    <thumbnail>https://i.ytimg.com/vi/4qlCC1GOwFw/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Pantera</title>
+    <link>plugin.video.youtube/playlist/PLxYReOMcJaFfGz1daUgyTUh9SerOLl3Vz/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BM2NkNzdhZjMtODEwMC00Y2UxLTgwODctMjdhNTkxZTcyOWY2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Beatles</title>
+    <link>plugin.video.youtube/playlist/PL0jp-uZ7a4g9FQWW5R_u0pz4yzV4RiOXu/</link>
+    <thumbnail>https://cdn.britannica.com/18/136518-050-CD0E49C6/The-Beatles-Ringo-Starr-Paul-McCartney-George.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Rolling Stones</title>
+    <link>plugin.video.youtube/playlist/PLNav38spIZE4tpahnCBoXIp6xFZQYY9eV/</link>
+    <thumbnail>https://cdn.britannica.com/41/197341-050-4859B808/The-Rolling-Stones-Bill-Wyman-Keith-Richards-1964.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Upchurch</title>
+    <link>plugin.video.youtube/playlist/PL0dDlKSElceFt3nYNotFqfx9rwV6PreLB/</link>
+    <thumbnail>https://iscale.iheart.com/catalog/artist/30611580/</link>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Queen</title>
+    <link>plugin.video.youtube/playlist/PL2tMgWgIvcWmjs4i6DcXm7YmjPlTXUl9E/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BMjI4OTIwNDAxMF5BMl5BanBnXkFtZTgwOTkzOTAyODE@._V1_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Guns N Roses</title>
+    <link>plugin.video.youtube/playlist/PL9tY0BWXOZFtxSH5pbVxCV7B-wWsA7KZh/</link>
+    <thumbnail>https://www.azcentral.com/gcdn/-mm-/496b4a61c87eeb9d1479f8c1774146c13fb325c3/c=160-0-1120-960/local/-/media/2016/08/12/Phoenix/Phoenix/636066102766755546-guns-n-roses.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>AC/DC</title>
+    <link>plugin.video.youtube/playlist/PLQlc99hV-nkGWDaG-gJxwOfqp8jxyHaaQ/</link>
+    <thumbnail>https://i.pinimg.com/736x/90/8f/38/908f38421a9ac5c7b24652ccc9177c6b.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Jimi Hendrix Experience</title>
+    <link>plugin.video.youtube/playlist/PLEjD5gC6S-fAjJ2xqdcX0Z2vbzq4vnBIU/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BYjQwNzMzOGUtYmVkMS00ZmUxLWEwMDAtMWRmYTczZjQ3NWU3XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Led Zeppelin</title>
+    <link>plugin.video.youtube/playlist/PLp3o6lwxnqMkm9dUECwqVBQY0IN6n1wH_/</link>
+    <thumbnail>https://cdn.britannica.com/47/243647-050-7C88FBF5/Led-Zeppelin-1968-studio-portrait-John-Bohham-Jimmy-Page-Robert-Plant-John-Paul-Jones.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Pink Floyd</title>
+    <link>https://youtube.com/playlist?list=RDCLAK5uy_lw7Yui8Bt-pnt3L4D3dP1M6jrdg6k57Bo/</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Pink_Floyd_-_all_members.jpg/250px-Pink_Floyd_-_all_members.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Grateful Dead</title>
+    <link>plugin.video.youtube/playlist/PLD813B9E40CEDFB48/</link>
+    <thumbnail>https://i.scdn.co/image/4c000d838221db17a95ec272d79c06560829ab11/</link>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Creedence Clearwater Revival</title>
+    <link>plugin.video.youtube/playlist/PLtzV2248lUVVzJtztzISYvxBDa0wvA4cU/</link>
+    <thumbnail>https://lastfm.freetls.fastly.net/i/u/ar0/4003d0a1c747b9d04972eb9c70230473.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Billy Joel</title>
+    <link>plugin.video.youtube/playlist/PLFF4DF6DA67A50D3A/</link>
+    <thumbnail>https://i.ytimg.com/vi/hSq4B_zHqPM/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Garth Brooks</title>
+    <link>plugin.video.youtube/playlist/PLIiI4TlOIndejbvW1uFfUtcPwTQyGhdFf/</link>
+    <thumbnail>https://i.ytimg.com/vi/7mHJaQpgTMY/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Drake</title>
+    <link>plugin.video.youtube/playlist/PLvXIAe9fzzc0S2VPzbXzORJ5Ct-1KWOzq/</link>
+    <thumbnail>https://i.ytimg.com/vi/7LnBvuzjpr4/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Beyonce</title>
+    <link>plugin.video.youtube/playlist/PLEPP8FBvYRtpu3oDrrZe-W_DVmvExr267/</link>
+    <thumbnail>https://i.ytimg.com/vi/-0wbtk6_vpE/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Taylor Swift</title>
+    <link>plugin.video.youtube/playlist/PLdnEKz0ib5DD8X0JeJ9MgbTLKNESWNlRe/</link>
+    <thumbnail>https://i.ytimg.com/vi/VuNIsY6JdUw/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Bruno Mars</title>
+    <link>plugin.video.youtube/playlist/PLIhLN7Z5xAvFXp0cqoWPHYt2XR4Q9o_RQ/</link>
+    <thumbnail>https://i.ytimg.com/vi/OPf0YbXqDm0/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Mariah Carey</title>
+    <link>plugin.video.youtube/playlist/PLMmBcihs-L-CP-vbRp3uPyGOgmCr51FU3/</link>
+    <thumbnail>https://i.ytimg.com/vi/UM156Pkfg70/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Madonna</title>
+    <link>plugin.video.youtube/playlist/PL49DB01A161111570</title>
+    <thumbnail>https://i.ytimg.com/vi/pufec0Hps00/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Elton John</title>
+    <link>plugin.video.youtube/playlist/PLA910D381CD5AF74E/</link>
+    <thumbnail>https://i.ytimg.com/vi/mBCVEcjScTQ/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Michael Jackson</title>
+    <link>plugin.video.youtube/PL08865B6758432FE8/</link>
+    <thumbnail>https://i.ytimg.com/vi/yURRmWtbTbo/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>80s Hard Rock & Hair Metal Hits</title>
+    <link>plugin.video.youtube/playlist/PLmXxqSJJq-yVWpRFGImHYZBQTuBGLjG4t/</link>
+    <thumbnail>https://i.ytimg.com/vi/WyF8RHM1OCg/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>90s Alternative Rock Grunge</title>
+    <link>plugin.video.youtube/playlist/PLD58ECddxRngHs9gZPQWOCAKwV1hTtYe4/</link>
+    <thumbnail>https://static.tumblr.com/51b14b7ee48b415e9865d4f89e27c10a/26hywbh/9w3nu4bsz/tumblr_static_wwthje1xg00wgoowg00w8wcs_2048_v2.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Alternative rock of the 2000-2009</title>
+    <link>plugin.video.youtube/playlist/PL6Lt9p1lIRZ311J9ZHuzkR5A3xesae2pk/</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Foo_Fighters_-_Southside_Festival_2019_4184_-_1.jpg/800px-Foo_Fighters_-_Southside_Festival_2019_4184_-_1.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Alternative rock of the 2010-2019</title>
+    <link>plugin.video.youtube/playlist/PL6Lt9p1lIRZ3m2X1Ur8ykG1XRGPFsTsbD/</link>
+    <thumbnail>https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/pwtr6y7rm9sgtdorufye.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Alternative rock of the 2020s</title>
+    <link>plugin.video.youtube/playlist/PL3gBudnUJUexS90-84IwbCjZf83CU2GTI/</link>
+    <thumbnail>https://www.nme.com/wp-content/uploads/2020/01/SocialContract_Press_Credit_MatildaHill-Jenkins.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Eminem</title>
+    <link>plugin.video.youtube/playlist/PL7E436F1EC114B001/</link>
+    <thumbnail>https://i.ytimg.com/vi/j5-yKhDd64s/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Cure</title>
+    <link>plugin.video.youtube/playlist/PLOhQmxfeqIZVF26JqIeF3uFhp2ASc6-el/</link>
+    <thumbnail>https://guitar.com/wp-content/uploads/2022/02/The-Cure-Credit-Vinnie-Zuffante-Michael-Ochs-Archives-Getty-Images@2000x1500.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Allman Brothers Band</title>
+    <link>plugin.video.youtube/playlist/PLVfOQW9L0XbGIySHs5uWdYHV_6ixerb36/</link>
+    <thumbnail>https://cdns-images.dzcdn.net/images/artist/e6e510685a90247006b49a3bc5fbfc48/500x500.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>David Bowie</title>
+    <link>plugin.video.youtube/playlist/PLkRzqIoq7yc3A5-7E6bDlk5PLeJMNfZIi/</link>
+    <thumbnail>https://dl6pgk4f88hky.cloudfront.net/2021/10/F6FAGT-1038x778.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Who</title>
+    <link>plugin.video.youtube/playlist/PLB2359E68D19BA3C0/</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Who_in_1965.png/220px-The_Who_in_1965.png/</link>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Bon Jovi</title>
+    <link>plugin.video.youtube/playlist/PLA424057908E96379/</link>
+    <thumbnail>https://thehoovercardinal.org/wp-content/uploads/2021/01/Bon-Jovi.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>3 Doors Down</title>
+    <link>plugin.video.youtube/playlist/PLE8882827DC004972/</link>
+    <thumbnail>https://www.songwritingmagazine.co.uk/wp-content/uploads/3-doors-down-1-by-dove-shore.jpg.webp/</link>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>N.W.A. - All Their Songs</title>
+    <link>plugin.video.youtube/playlist/PLideJWc8vR0H7VPVtMnK-5iNyw4DCXcal/</link>
+    <thumbnail>https://cdns-images.dzcdn.net/images/artist/8255886bcd9442e3d385ff054ef04245/500x500.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Ultimate Prince Playlist!</title>
+    <link>plugin.video.youtube/playlist/PL5uLaJGLPi3wb1PMCcWsByeS_erZG2RQI/</link>
+    <thumbnail>https://hips.hearstapps.com/hmg-prod/images/prince-prince-performing-on-stage---purple-rain-tour-photo-by-richard-e-aaronredferns2.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Ultimate Eminem Mix</title>
+    <link>plugin.video.youtube/playlist/PL1l2ekK_5Up3ByUDejiaawH2fNLbSZIx5/</link>
+    <thumbnail>https://media.npr.org/assets/music/news/2010/06/eminem-52893634f7c035450a7b5ff2e040cacb4012395e-s1100-c50.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>LITTLE RICHARD HITS</title>
+    <link>plugin.video.youtube/playlist/PLcSYf7ip_VP9qO0Q79yUb74YOvjxcADO2/</link>
+    <thumbnail>https://media.newyorker.com/photos/5eb7192a0fe2fbfb61a29041/master/w_2560%2Cc_limit/Remnick-LittleRichard.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Kinks</title>
+    <link>plugin.video.youtube/playlist/RDCLAK5uy_lw7Yui8Bt-pnt3L4D3dP1M6jrdg6k57Bo/</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/88/Helmfrid-sofa4_Touched.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Aerosmith</title>
+    <link>plugin.video.youtube/playlist/PLqeOvB-u67NAYU6i6EgcninTN53WilKkX/</link>
+    <thumbnail>https://townsquare.media/site/295/files/2016/01/attachment-aerosmith-debut-album1.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Ramones</title>
+    <link>plugin.video.youtube/playlist/PL133AF799150D0983/</link>
+    <thumbnail>https://www.rollingstone.com/wp-content/uploads/2018/06/rs-226789-BPW2FR.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Fleetwood Mac</title>
+    <link>plugin.video.youtube/playlist/PLdB2qly-JTgATFjyESCah_fswc5sqPMo0/</link>
+    <thumbnail>https://cdn.britannica.com/25/219925-050-B508D856/British-American-rock-group-Fleetwood-Mac.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>EAGLES Live performances and some of the best songs</title>
+    <link>plugin.video.youtube/playlist/PLN9SUYQxOsCf7M7upaSc_-4xgJJLZiqgb/</link>
+    <thumbnail>https://cdn.britannica.com/50/198850-050-46C563B5/Eagles-Bernie-Leadon-Don-Henley-Glenn-Frey.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Journey</title>
+    <link>plugin.video.youtube/playlist/PLseru_GF_QVXLY8qe6XHBo_u24jlMq1Oz/</link>
+    <thumbnail>https://cdn.smehost.net/2020sonymusiccouk-ukprod/wp-content/uploads/2019/10/4955572d6b52fd1f344d6aecae7ab780.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Van Halen</title>
+    <link>plugin.video.youtube/playlist/PLXSlB4yMaoJt0a3U3L0mCfkBl8E9Fb80e/</link>
+    <thumbnail>https://www.rollingstone.com/wp-content/uploads/2020/10/van-halen-charts.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Crosby Stills Nash & Young</title>
+    <link>plugin.video.youtube/playlist/PL177D38A15223DC66/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BNWE4YmU0NzYtNTk5Ni00ODJjLWFiZGYtYjAxYTg3YzU5ODEwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Def Leppard</title>
+    <link>plugin.video.youtube/playlist/PL9tY0BWXOZFv7G2CZp_v2rD-YxoFek5mw/</link>
+    <thumbnail>https://www.udiscovermusic.com/wp-content/uploads/2022/08/Def-Leppard-GettyImages-73991295.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Nirvana</title>
+    <link>plugin.video.youtube/playlist/PLmoa95rrVksZ97QUoXhZVVsYZa3dcozTp/</link>
+    <thumbnail>https://www.rollingstone.com/wp-content/uploads/2018/06/rs-nirvana-e9e22e4b-f7d9-4fc7-bd94-23c30084ce94.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Pearl Jam</title>
+    <link>plugin.video.youtube/playlist/PL42B5188E402C40DD/</link>
+    <thumbnail>https://www.udiscovermusic.com/wp-content/uploads/2020/10/Pearl-Jam-GettyImages-86111976.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>R.E.M.</title>
+    <link>plugin.video.youtube/playlist/PLC7B9C3CEACF3407A/</link>
+    <thumbnail>https://cdn.britannica.com/19/246519-050-B3A607CE/Photo-of-REM-band-members.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Steve Miller Band</title>
+    <link>plugin.video.youtube/playlist/PL2myD0mnnO91DtAg2jDPzW6ojwU1muP5z/</link>
+    <thumbnail>https://www.udiscovermusic.com/wp-content/uploads/2021/10/Steve-Miller-Band-GettyImages-84999776-1000x600.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Cheap Trick</title>
+    <link>plugin.video.youtube/playlist/PL9tY0BWXOZFs5l-JXfMFQUKoLafH2LGNn/</link>
+    <thumbnail>https://www.spirit-of-rock.com/les%20goupes/C/Cheap%20Trick/pics/7113_3.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Tom Petty and the Heartbreakers</title>
+    <link>plugin.video.youtube/playlist/PL4_zotuuu4206U2bo1vncUELSwv_z7-lG/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BYjdkYjRhNDAtMjA0YS00YzkxLWEyZDYtMzI5YTgzMmNlZTRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Sly & The Family Stone</title>
+    <link>plugin.video.youtube/playlist/PLiKtJ6o0GOY7cBn7EKOyvBjCb8yXcCC-w/</link>
+    <thumbnail>https://static.tvtropes.org/pmwiki/pub/images/sly_and_the_family_stone_1969_promo.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Steely Dan</title>
+    <link>plugin.video.youtube/playlist/PLe8Z_l5Ergd0_7h2G8DEIjjMHCMByCK7t/</link>
+    <thumbnail>https://cdn.britannica.com/45/23345-004-37717395/Steely-Dan-1977.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Metallica</title>
+    <link>plugin.video.youtube/playlist/PL2D4A44B959D87893/</link>
+    <thumbnail>https://ichef.bbci.co.uk/news/976/cpsprodpb/17FBE/production/_129283289_gettyimages-521764750.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>LYNYRD SKYNYRD</title>
+    <link>plugin.video.youtube/playlist/PLw6p6PA8M2mheaTjACDfNa5xmXO_EO9TB/</link>
+    <thumbnail>https://cdn.britannica.com/43/23143-050-B4C4503F/Lynyrd-Skynyrd-concert-October-1976.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Rush</title>
+    <link>plugin.video.youtube/playlist/PLyzOXHX-1l7dNOm_KqOqM9q-W76gVPclW/</link>
+    <thumbnail>https://mediaproxy.salon.com/width/1200/https://media.salon.com/2013/08/rush.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>THE DOORS</title>
+    <link>plugin.video.youtube/playlist/PL1B99DB6CAB98504E/</link>
+    <thumbnail>https://www.progarchives.com/progressive_rock_discography_band/2772.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Clash</title>
+    <link>plugin.video.youtube/playlist/PLiN-7mukU_REtAHsIYJKInCIfCpNSPdN6/</link>
+    <thumbnail>https://www.goldminemag.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4MzU1MTAyNzYxNDI4OTUw/clash_color.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Coldplay</title>
+    <link>plugin.video.youtube/playlist/PLsvoYlzBrLFAJd4hNQSHw1lYjDKeQB_iU/</link>
+    <thumbnail>https://event-images.tixel.com/cdn-cgi/image/width=600,format=auto/media/images/b33e013fc9637204c7ab45b1b44df735_1585498836_5897_l.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Beach Boys</title>
+    <link>plugin.video.youtube/playlist/PLhs-gNJvz5IXl5RpAFFQXb0E46ZQeIIDT/</link>
+    <thumbnail>https://cdn.britannica.com/27/198727-050-DE491706/The-Beach-Boys-Al-Jardine-Carl-Wilson.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Police</title>
+    <link>plugin.video.youtube/playlist/PL51EAA4AAF6A856B7/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BMjU0ZjU1OTUtODY0Zi00MGIzLTg0YmQtYTkzNDQ4OTBhNWIyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Talking Heads</title>
+    <link>plugin.video.youtube/playlist/PLUhqFX6g_9NcCyvuZgkx7AaHOsclPkMxk/</link>
+    <thumbnail>https://cdn.britannica.com/77/23077-004-0CBB25DF/Talking-Heads.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>THE STOOGES</title>
+    <link>plugin.video.youtube/playlist/PLAtB65HqXWtR9q1pL9Po4GWc6MBVJ8H1H/</link>
+    <thumbnail>https://www.wsupress.wayne.edu/sites/default/files/Fig%2011.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Genesis</title>
+    <link>plugin.video.youtube/playlist/PLWnwFAnZO1AGhzxUm4YlbW7ex-33vazOT/</link>
+    <thumbnail>https://cdn.britannica.com/29/102829-050-7945D19B/Genesis-Peter-Gabriel-Tony-Banks-Phil-Collins-1974.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Foo Fighters</title>
+    <link>plugin.video.youtube/playlist/PLez_Te78YVuTSkIrPnn5EOeUYRvUHwgxl/</link>
+    <thumbnail>https://cdn.smehost.net/2020sonymusiccouk-ukprod/wp-content/uploads/2017/06/00c04d57e42c56f9116eef3f1df14d53-800x800.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>U2</title>
+    <link>plugin.video.youtube/playlist/PLB4BE66B01E4887BB/</link>
+    <thumbnail>https://www.billboard.com/wp-content/uploads/2023/04/U2-cr-Helena-Christensen-billboard-1548.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Red Hot Chili Peppers</title>
+    <link>plugin.video.youtube/playlist/PL1343579D67ED4740/</link>
+    <thumbnail>https://variety.com/wp-content/uploads/2022/03/Red-Hot-Chili-Peppers-Walk-of-Fame.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Smashing Pumpkins</title>
+    <link>plugin.video.youtube/playlist/PL7zrnXIkwlVypkCzwbSBpSIrdNWPDqfe1/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BMmNlOWZkMGItNGNmMS00NzhmLTkyY2YtYWQ4ZWI5NmQzOGExXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Green Day</title>
+    <link>plugin.video.youtube/playlist/PL81_CtYCym28CNGzLEMVBl-RVgMPTu-2j/</link>
+    <thumbnail>https://www.rollingstone.com/wp-content/uploads/2018/06/rs-7276-20121007-greenday-env-thumb-624x420-1349717589.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Runaways</title>
+    <link>plugin.video.youtube/playlist/PL2388661D983C74CB/</link>
+    <thumbnail>https://static01.nyt.com/images/2010/03/14/arts/14runaways-span/14runaways-span-articleLarge.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Soundgarden</title>
+    <link>plugin.video.youtube/playlist/PLyVhNY-g2JDjYvQzN1SLYN92XOve9rF0Z/</link>
+    <thumbnail>https://www.billboard.com/wp-content/uploads/stylus/2625999-soundgarden-michael-lavine-617-409.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Santana</title>
+    <link>plugin.video.youtube/playlist/PL9tY0BWXOZFv6RZzbHM_M3vChUW15yXSz/</link>
+    <thumbnail>https://cdn.britannica.com/41/74841-050-7F506B51/Carlos-Santana-2000.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Jim McCarty-Yardbirds</title>
+    <link>plugin.video.youtube/playlist/PLrYu_NffGY5y38wXMUUojVL3pyeor2AEc/</link>
+    <thumbnail>https://imageio.forbes.com/blogs-images/jimclash/files/2015/04/page.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Nine Inch Nails</title>
+    <link>plugin.video.youtube/playlist/PL5AE2DCEE06CFE4AA/</link>
+    <thumbnail>https://cdn.shopify.com/s/files/1/0015/0840/9399/files/nine-inch-nails-80s.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>REO Speedwagon</title>
+    <link>plugin.video.youtube/playlist/PL9tY0BWXOZFtsJ2sC7k7W8I-B2xFEESIb/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BNGUwMDM0OWUtYmIzZi00OTlmLWEzZDgtZmU2MWNhYWIxM2UxXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The White Stripes</title>
+    <link>plugin.video.youtube/playlist/PLAC9127A72919F8DC/</link>
+    <thumbnail>https://www.juxtapoz.com/images/Evan%20Pricco/2019/7July2019/White_Stripes_Elephant.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Slayer</title>
+    <link>plugin.video.youtube/playlist/PLVgGT_m10yKKj4rwdiE2xwrKIfnC-cVay/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BMjk0ZmY4ZWItODNhZi00ZDM5LTk2ZTgtMDFhMzcxMWM1ZmMzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Replacements</title>
+    <link>plugin.video.youtube/playlist/PL51_Y8Mo98alGMof7KiMu-sW4V3iyMqbG/</link>
+    <thumbnail>https://media2.inlander.com/inlander/imager/u/blog/20330135/music1-1-c065724307f2b25c.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Radiohead</title>
+    <link>plugin.video.youtube/playlist/PLukmsaXDPJie7L7Ihn63HJhA6YMp7tUUr/</link>
+    <thumbnail>https://uw.edu/news/archive/images/20090507_pid49558_aid49553_radio_w400.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>No Doubt - Gwen Stefani</title>
+    <link>plugin.video.youtube/playlist/PLrKMiVh6uoiJJ92beCveEbnpIGMonNyvS/</link>
+    <thumbnail>https://cdns-images.dzcdn.net/images/artist/eab30d828f05c2ec5d1e6c2d05b2c2a7/500x500.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Iron Maiden</title>
+    <link>plugin.video.youtube/playlist/PL171A6536C5FDFD95/</link>
+    <thumbnail>https://cdn.apollo.audio/one/media/640a/fe48/4ea1/2205/e6f8/2d0e/iron-maiden-header.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Garbage</title>
+    <link>plugin.video.youtube/playlist/PL14984BC8FC29AD81/</link>
+    <thumbnail>https://f5q7q5p2.rocketcdn.me/wp-content/uploads/Garbage-later-1024x768.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Killers</title>
+    <link>plugin.video.youtube/playlist/PL4B2325FF6E3D0D12/</link>
+    <thumbnail>https://i.ytimg.com/vi/gGdGFtwCNBE/maxresdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Black Sabbath</title>
+    <link>plugin.video.youtube/playlist/PLVgGT_m10yKIIcafib3W7rSDYLxQMgBMB/</link>
+    <thumbnail>https://www.rollingstone.com/wp-content/uploads/2018/06/rs-225449-94171748_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Funkadelic</title>
+    <link>plugin.video.youtube/playlist/PL097FC6598D385B32/</link>
+    <thumbnail>https://cdn.britannica.com/29/204829-050-8DBD5B7A/Parliament-Funkadelic-1971.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Go-Gos - Belinda Carlisle</title>
+    <link>plugin.video.youtube/playlist/PL6uSNQuiliVjQEKYQ7EOnt01hOK5D0pNI/</link>
+    <thumbnail>https://cdn.britannica.com/17/243917-050-23287480/The-Go-Gos-girl-band-1985.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Electric Light Orchestra</title>
+    <link>plugin.video.youtube/playlist/PLFcimSxlIkhxLXWsWkTa0y6p5BroAINhH/</link>
+    <thumbnail>https://static.wikia.nocookie.net/pikminjake/images/8/8f/ELO.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Rage Against the Machine</title>
+    <link>plugin.video.youtube/playlist/PLPbCXiOeC78e8BzAq3R7nHHWoqvXXYN53/</link>
+    <thumbnail>https://i8.amplience.net/i/naras/Rage%20Against%20The%20Machine_1992.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Beastie Boys</title>
+    <link>plugin.video.youtube/playlist/PL1A8C5629B4CDE805/</link>
+    <thumbnail>https://static.independent.co.uk/2021/11/10/11/shutterstock_editorial_8551116b.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Misfits</title>
+    <link>plugin.video.youtube/playlist/PLVgGT_m10yKKkWm0y1mwyldgF__pLIh1v/</link>
+    <thumbnail>https://www.starnewsonline.com/gcdn/authoring/2013/12/03/NSTN/ghows-NC-93eda0f4-9844-4e49-8564-f2417f71fdc8-2bf22e3d.jpeg/</link>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Sonic Youth</title>
+    <link>plugin.video.youtube/playlist/PL9tY0BWXOZFupM3aRLllJuW3Yz4MxbrZk/</link>
+    <thumbnail>https://media.pitchfork.com/photos/6230a0d3d53e7900ece6fecf/master/w_1600%2Cc_limit/syinline1.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>MC5</title>
+    <link>plugin.video.youtube/playlist/PLr3Jt6z6eRwKE8sI0orvA7t9IuXrW7QI8/</link>
+    <thumbnail>https://i.cbc.ca/1.4785857.1534337774!/fileImage/httpImage/wayne-kramer-mc5.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Alice in Chains</title>
+    <link>plugin.video.youtube/playlist/PLQEsC75v6gf45LPCcCmE4FJ-fCkdkEudU/</link>
+    <thumbnail>https://www.musicmaniarecords.be/media/artist-photo/139572-alice-in-chains-band-pic.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Kings of Leon</title>
+    <link>plugin.video.youtube/playlist/PL9tY0BWXOZFsZKnpTl2yyLvKR4rTjqcvN/</link>
+    <thumbnail>https://cdn.mos.cms.futurecdn.net/a2cec968ba235f8de86cd7949b58ad81.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>INXS</title>
+    <link>plugin.video.youtube/playlist/PLD34CC157066B4E3E/</link>
+    <thumbnail>https://d10j3mvrs1suex.cloudfront.net/s:bzglfiles/u/127550/b5464d6686cf6b053e0aff56ec9f57a8f94ba464/original/inxs-kick2.jpg/!!/b%3AW1sic2l6ZSIsInBob3RvIl1d/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Cars</title>
+    <link>plugin.video.youtube/playlist/PLmXxqSJJq-yVaHK-syRnvV74wOEGF4Idy/</link>
+    <thumbnail>https://ychef.files.bbci.co.uk/live/624x351/p07nn7z1.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Cranberries</title>
+    <link>plugin.video.youtube/playlist/PLWtysTkuEQDNxgO5wJvl11Y6EE8p5XCIt/</link>
+    <thumbnail>https://sungenre.com/wp-content/uploads/ultimatemember/376/profile_photo.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Bikini Kill</title>
+    <link>plugin.video.youtube/playlist/PLmx6LOBrJCjptPpIRS0-S_Qc39A-OoI76/</link>
+    <thumbnail>https://i8.amplience.net/i/naras/gettyimages-85618261.jpg.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Toto</title>
+    <link>plugin.video.youtube/playlist/PL9tY0BWXOZFsBg9ueOCuklhCD54kAVH1M/</link>
+    <thumbnail>https://static.tvtropes.org/pmwiki/pub/images/toto_old_copy.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Siouxsie and the Banshees</title>
+    <link>plugin.video.youtube/playlist/PLC_KiPJJicIDvGXbP_ks9MrumJ5T9RLVH/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BN2JlYzhhNjktNzNjMC00NjM3LWIyZTgtOWIyODkzN2EwOTQ3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Against Me</title>
+    <link>plugin.video.youtube/playlist/PL806A1A46217E83F5/</link>
+    <thumbnail>https://event-images.tixel.com/cdn-cgi/image/width=600,format=auto/media/images/b800aecca3b7cbef55f5d133ffa474cf_1582981145_0096_l.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Veruca Salt</title>
+    <link>plugin.video.youtube/playlist/PLw405kull-J2j7dlj6RRb2CX2O_yJ608q/</link>
+    <thumbnail>https://traceypepper.com/wp-content/uploads/2020/06/vs-adyer6-1024x701-1.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Velvet Underground & Members</title>
+    <link>plugin.video.youtube/playlist/PLHahHqCn1CvnzGhEtdbe6TxMDq3ez_iuZ/</link>
+    <thumbnail>https://magazine-resources.tidal.com/uploads/2020/11/velvets_resized-1280x982.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Smiths</title>
+    <link>plugin.video.youtube/playlist/PLtSGHDLM6XV750DYPVCYlYa9Plp4DzUEA/</link>
+    <thumbnail>https://cdn.britannica.com/17/23017-004-C0102DE8/The-Smiths.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Pixies</title>
+    <link>plugin.video.youtube/playlist/PLC_KiPJJicIB8XhB6jJNFPAxAOckiyY0L/</link>
+    <thumbnail>https://i.pinimg.com/736x/67/d4/41/67d441582eee2d06f94baa1de75005cb.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Blink-182</title>
+    <link>plugin.video.youtube/playlist/PLJqePS-bjbVGYXVD15f6bmJzvFAZgaqv8/</link>
+    <thumbnail>https://www.billboard.com/wp-content/uploads/2022/11/blink-182-2001-billboard-1548.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Hole</title>
+    <link>plugin.video.youtube/playlist/PLnordgqMCs8_CZ4lPWl6g5KIDgVkc5VLP/</link>
+    <thumbnail>https://www.rollingstone.com/wp-content/uploads/2018/09/celebrity-skin-at-20-courtney-love-hole.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Stone Temple Pilots</title>
+    <link>plugin.video.youtube/playlist/PLFxMph_JHJZyQHUJb0udwrRG2jqek7zVV/</link>
+    <thumbnail>https://www.billboard.com/wp-content/uploads/media/stone-temple-pilots-1994-Chris-Cuffaro-b-billboard-1548.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Amy Winehouse</title>
+    <link>plugin.video.youtube/playlist/PL9CE015AC978E88FE/</link>
+    <thumbnail>https://cdn.britannica.com/17/122817-050-99DD868A/British-Amy-Winehouse.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Poison</title>
+    <link>plugin.video.youtube/playlist/PLF10CD8DBC7E24650/</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BMjdlOTYyZjYtZTQzMC00YzdmLWE1ZjUtNjE4ODBkZGU2YmQ1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Michael Jackson</title>
+    <link>plugin.video.youtube/playlist/PL08865B6758432FE8/</link>
+    <thumbnail>https://i.ytimg.com/vi/QNJL6nfu__Q/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
 </plugin>
