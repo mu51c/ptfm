@@ -18,21 +18,21 @@
 
 <plugin>
 	<title>Sydney New Year's Eve 2020</title>
-	<link>plugin://plugin.video.youtube/playlist/PLsPVOdZ3LN6e7srV6f8ptWTgUO_63BT_o</link>
+	<link>plugin://plugin.video.youtube/playlist/PLsPVOdZ3LN6e7srV6f8ptWTgUO_63BT_o/</link>
 	<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
 	<title>Sydney New Year's Eve 2018</title>
-	<link>plugin://plugin.video.youtube/playlist/PLsPVOdZ3LN6c2_edusRHi8NyJVeO9j51H</link>
+	<link>plugin://plugin.video.youtube/playlist/PLsPVOdZ3LN6c2_edusRHi8NyJVeO9j51H/</link>
 	<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
 	<title>Music from The Recording Studio</title>
-	<link>plugin://plugin.video.youtube/playlist/PLsPVOdZ3LN6eB4LqS1ObePZcMIEkA04Zv</link>
+	<link>plugin://plugin.video.youtube/playlist/PLsPVOdZ3LN6eB4LqS1ObePZcMIEkA04Zv/</link>
 	<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </plugin>
