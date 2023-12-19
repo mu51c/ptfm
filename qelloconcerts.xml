@@ -2,13 +2,13 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-<item>
+<plugin>
 <title>Iron Maiden 2019 Live Full Concert HD : Legacy of the Beast Tour 2019</title>
 <link> https://m.youtube.com/watch?v=6KdN6_4a8IY\u0026list=PLL_UCi3tgYwQddQqOlMsX6ZeubyQtGtcc\u0026index=1<link>
 <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
 <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 <description></description>
-</item>
+</plugin>
 
 
 <item>
@@ -739,7 +739,7 @@
 
 <item>
 <title>Evanescence - Bring Me To Life (Live @ Rock Am Ring 2004)</title>
-<link> https://m.youtube.com/watch?v=Z3OId9eT0lk\u0026list=PL2N_sVGOb3clqyWSLspkp8BAv4FBfBaxH\u0026index=1<link>
+<link> https://m.youtube.com/Z3OId9eT0lk\u0026list=PL2N_sVGOb3clqyWSLspkp8BAv4FBfBaxH\u0026index=1<link>
 <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
 <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 <description></description>
