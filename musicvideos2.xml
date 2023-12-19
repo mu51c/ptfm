@@ -3,13 +3,6 @@
 <layoutype>GoFuckYourself</layoutype>
 
 <plugin>
-<title>NAME</title>
-<link> plugin://plugin.video.youtube/playlist/LIST/</link>
-<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
-<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
-</plugin>
-
-<plugin>
 <title>Iron Maiden 2019 Live Full Concert HD : Legacy of the Beast Tour 2019</title>
 <link> plugin://plugin.video.youtube/playlist/PLL_UCi3tgYwQddQqOlMsX6ZeubyQtGtcc/</link>
 <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
