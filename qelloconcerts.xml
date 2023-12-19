@@ -4,7 +4,7 @@
 
 <plugin>
 <title>Iron Maiden 2019 Live Full Concert HD : Legacy of the Beast Tour 2019</title>
-<link> https://m.youtube.com/watch?v=6KdN6_4a8IY\u0026list=PLL_UCi3tgYwQddQqOlMsX6ZeubyQtGtcc\u0026index=1<link>
+<link> plugin://plugin.video.youtube/playlistPLL_UCi3tgYwQddQqOlMsX6ZeubyQtGtcc/<link>
 <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
 <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 <description></description>
