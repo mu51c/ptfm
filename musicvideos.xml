@@ -3,14 +3,14 @@
 <layoutype>GoFuckYourself</layoutype>
 
 <dir>
-    <name>Artists Music Videos YT</name>
-    <link>https://mu51c.github.io/ptfm/musicmovies2.xml</link>
+    <title>Artists Music Videos YT</title>
+    <link>https://mu51c.github.io/ptfm/mvtwo.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>Years Music Videos YT</name>
+    <title>Years Music Videos YT</title>
     <link>https://mu51c.github.io/ptfm/years.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>

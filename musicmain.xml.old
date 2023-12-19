@@ -27,21 +27,21 @@
 </dir>
 
 <dir>
-    <name>Music Videos Youtube & Free One Clicks</name>
+    <title>Music Videos Youtube & Free One Clicks</title>
     <link>https://mu51c.github.io/ptfm/musicvideos.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </dir>
 
 <dir>
-	<name>Music Movies Youtube & Free One Clicks</name>
+	<title>Music Movies Youtube & Free One Clicks</title>
 	<link>https://mu51c.github.io/ptfm/musicmovies.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </dir>
 
 <dir>
-    <name>Radio</name>
+    <title>Radio</title>
     <link>https://mu51c.github.io/ptfm/radio.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>

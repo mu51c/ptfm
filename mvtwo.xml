@@ -2,8 +2,6 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-<xml>
-
 <plugin>
 <title>Tom MacDonald</title>
 <link> plugin://plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr/</link>
@@ -17,5 +15,3 @@
 <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
 <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </plugin>
-
-</xml>
