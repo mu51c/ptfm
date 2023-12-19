@@ -2,32 +2,30 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
+<dir>
+    <name>Artists Music Videos YT</name>
+    <link>https://mu51c.github.io/ptfm/musicmovies2.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
 
+<dir>
+    <name>Years Music Videos YT</name>
+    <link>https://mu51c.github.io/ptfm/years.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
 
+<dir>
+    <title>Various Music Videos Playlist YT</title>
+    <link>https://mu51c.github.io/ptfm/variousmvplaylists.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musicvideos2.json", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/artistsmusicvideoslogo.png?raw=true", 
-            "title": "Artists Music Videos YT", 
-            "type": "dir"
-        },     
-        {
-            "type": "dir", 
-            "title": "Years Music Videos YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/years", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/yearsmusicvideoslogo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },     
-        {
-            "type": "dir", 
-            "title": "Various Music Videos Playlist YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/variousmvplaylists", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/variousmusicvideoslogo.png?raw=true", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/remix", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/videomashupslogo.png?raw=true", 
-            "title": "Mashups YT", 
-            "type": "dir"
+<dir>
+    <title>Mashups YT</title>
+    <link>https://mu51c.github.io/ptfm/remix.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
