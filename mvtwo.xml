@@ -4,14 +4,7 @@
 
 <plugin>
 <title>Tom MacDonald</title>
-<link> plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr/</link>
-<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
-<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
-</plugin>
-
-<plugin>
-<title>Tom MacDonald</title>
-<link> plugin://plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr</link>
+<link>plugin://plugin.video.youtube/playlist/PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr/</link>
 <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
 <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </plugin>
@@ -21,4 +14,12 @@
 <link> https://www.youtube.com/watch?v=OshNahVo9-c&list=PLNiDl4mPNqeVWSdHDfRoZwCcS8MqHNXsr&index=15</link>
 <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
 <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>4K Concerts Playlist YT</title>
+    <link>plugin://plugin.video.youtube/playlist/PLL_UCi3tgYwQddQqOlMsX6ZeubyQtGtcc/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+    <content></content>
 </plugin>
