@@ -11,7 +11,7 @@
 
 <plugin>
 	<title>MUSICAL MOVIES FREE</title>
-	<link>plugin://plugin.video.youtube/playlist/PLKDsBjdawnpZeu37KtB5DTGc6_V997Lem/</link>
+    <link>plugin://plugin.video.youtube/playlist/PLKDsBjdawnpZeu37KtB5DTGc6_V997Lem/</link>
 	<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </plugin>

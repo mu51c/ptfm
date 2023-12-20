@@ -3,15 +3,15 @@
 <layoutype>GoFuckYourself</layoutype>
 
 <plugin>
-	<title>BONUS VERY OLD MOVIES OF ALL SORTS</title>
-	<link>plugin://plugin.video.youtube/playlist/PLX9_I-EOJPdFuOjcI2zkmTck55homHEBE/</link>
-	<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <title>BONUS VERY OLD MOVIES OF ALL SORTS</title>
+    <link>plugin://plugin.video.youtube/playlist/PLX9_I-EOJPdFuOjcI2zkmTck55homHEBE/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
-	<title>Bonus TV Movies: 70s 80s 90s & 2000s</title>
-	<link>plugin://plugin.video.youtube/playlist/PLdV_8CaQ81OAHpmtv7gN0iBDG92iHI9lN/</link>
-	<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <title>Bonus TV Movies: 70s 80s 90s & 2000s</title>
+    <link>plugin://plugin.video.youtube/playlist/PLdV_8CaQ81OAHpmtv7gN0iBDG92iHI9lN/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </plugin>

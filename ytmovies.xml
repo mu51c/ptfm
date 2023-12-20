@@ -3,217 +3,232 @@
 <layoutype>GoFuckYourself</layoutype>
 
 <plugin>
-	<title>xx</title>
-	<link>plugin://plugin.video.youtube/playlist/xx/</link>
-	<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <title>Full Disaster Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvAjqJiMzHkKPl5Zv9mU0mMu/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
     <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </plugin>
 
 
-{
-    "items": [ 
-        {
-            "type": "plugin", 
-            "title": "Full Disaster Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvAjqJiMzHkKPl5Zv9mU0mMu", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Steven Seagal Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvD0rBMMYMJFbUzLPhmPSljs", 
-            "thumbnail": "", 
-            "fanart": ""
-        } ,             
-        {
-            "type": "plugin", 
-            "title": "Full Shark Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvCxfz6zOBydBAJhg85zuoa4", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Tom Sizemore Movies", 
-            "link": "plugin.video.youtube/playlist/PLdV_8CaQ81OAHpmtv7gN0iBDG92iHI9lN", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Old School Action Movies 90s 00s", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvBzqFvCg6xJ0AlFZbyNTnaA", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Horror Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvA7ZbRlEgws2h6JSNtljeZZ", 
-            "thumbnail": "", 
-            "fanart": ""
-        },               
-        {
-            "type": "plugin", 
-            "title": "Full Horror Movies 2", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvB3T6Mv9ZEFzSo0Ge9EBp0c", 
-            "thumbnail": "", 
-            "fanart": ""
-        },           
-        {
-            "type": "plugin", 
-            "title": "Full African and Nollywood Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvBhb11dk_uzgPrs-0DL8yfp", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Romance and Rom Com Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvDNFf1ZpASZKuu0DJmAK7hh", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Black Cinema Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvB3EvoaZS0jZIFYl88T3lmp", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Monster Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvDyTS5U3vH0ZO1wIKFJdHC9", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Virus Outbreak Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvCEfXU7xtpgOiJbyUDchJzD", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full War Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvAEIIUTBJO1mOi2w_wQCsee", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Mini Series", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvB4XkYRIK9OjyvDn7neYk6O", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Asylum Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvBIaKDe-ymYv8D8Ynbqwxa1", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Adventure Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvDN8ipSAi4uHwF3GzBYgPyk", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Christmas Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvAx8SVK0wfxi2eTVpcxKoKn", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Western Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvBUmYAz4aAhErCSmzfGZB4d", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Thriller Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvAt6ePaX-cPo8-vdvSviHwu", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Family Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvARYjrUsdnfVbhxN0Ng5TZw", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Sci-Fi Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvBK1TLbKmJ4a4J2Ro5eoGVh", 
-            "thumbnail": "", 
-            "fanart": ""
-        },            
-        {
-            "type": "plugin", 
-            "title": "Full Sci-fi Movies 2", 
-            "link": "plugin.video.youtube/playlist/PLzOiOo7AKyKqJiDPHFfd0u0RYZmX6sSUH", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Drama Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvBqBum4D3g0FTNOr7Z4vzP2", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Comedy Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvDzMSAD0bgmKfBui8E4P9w_", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Action Movies", 
-            "link": "plugin.video.youtube/playlist/PLfRCZ3PuccvBQv71hWi334-zRJekjSlCq", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Stephen King Movies", 
-            "link": "plugin.video.youtube/playlist/PLwkKF0s6pR4H4gC1vcENtrFTTHTIn6M19", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Spencer Tracy Movies", 
-            "link": "plugin.video.youtube/playlist/PLUnzp6ax1XDSdxS7wqIAzSMeKmBRw49L0", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Kung Fu Movies in English", 
-            "link": "plugin.video.youtube/playlist/PL7C67B009285B4BAA", 
-            "thumbnail": "", 
-            "fanart": ""
-        },             
-        {
-            "type": "plugin", 
-            "title": "Full Zombie Movies", 
-            "link": "plugin.video.youtube/playlist/PLCQSHH1d7fL04z6wNRhuA72MwzHoMPDWS", 
-            "thumbnail": "", 
-            "fanart": ""
-        }
-    ]
-}
+<plugin>
+    <title>Full Steven Seagal Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvD0rBMMYMJFbUzLPhmPSljs/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Shark Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvCxfz6zOBydBAJhg85zuoa4/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Tom Sizemore Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLdV_8CaQ81OAHpmtv7gN0iBDG92iHI9lN/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Old School Action Movies 90s 00s</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvBzqFvCg6xJ0AlFZbyNTnaA/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Horror Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvA7ZbRlEgws2h6JSNtljeZZ/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Horror Movies 2</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvB3T6Mv9ZEFzSo0Ge9EBp0c/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full African and Nollywood Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvBhb11dk_uzgPrs-0DL8yfp/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Romance and Rom Com Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvDNFf1ZpASZKuu0DJmAK7hh/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Black Cinema Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvB3EvoaZS0jZIFYl88T3lmp/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Monster Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvDyTS5U3vH0ZO1wIKFJdHC9/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Virus Outbreak Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvCEfXU7xtpgOiJbyUDchJzD/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full War Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvAEIIUTBJO1mOi2w_wQCsee/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Mini Series</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvB4XkYRIK9OjyvDn7neYk6O/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Asylum Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvBIaKDe-ymYv8D8Ynbqwxa1/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Adventure Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvDN8ipSAi4uHwF3GzBYgPyk/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Christmas Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvAx8SVK0wfxi2eTVpcxKoKn/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Western Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvBUmYAz4aAhErCSmzfGZB4d/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Thriller Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvAt6ePaX-cPo8-vdvSviHwu/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Family Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvARYjrUsdnfVbhxN0Ng5TZw/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Sci-Fi Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvBK1TLbKmJ4a4J2Ro5eoGVh/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Sci-fi Movies 2</title>
+    <link>plugin://plugin.video.youtube/playlist/PLzOiOo7AKyKqJiDPHFfd0u0RYZmX6sSUH/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Drama Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvBqBum4D3g0FTNOr7Z4vzP2/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Comedy Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvDzMSAD0bgmKfBui8E4P9w_/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Action Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLfRCZ3PuccvBQv71hWi334-zRJekjSlCq/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Stephen King Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLwkKF0s6pR4H4gC1vcENtrFTTHTIn6M19/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Spencer Tracy Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLUnzp6ax1XDSdxS7wqIAzSMeKmBRw49L0/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Kung Fu Movies in English</title>
+    <link>plugin://plugin.video.youtube/playlist/PL7C67B009285B4BAA/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+
+<plugin>
+    <title>Full Zombie Movies</title>
+    <link>plugin://plugin.video.youtube/playlist/PLCQSHH1d7fL04z6wNRhuA72MwzHoMPDWS/</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
