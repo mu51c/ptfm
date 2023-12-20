@@ -2,39 +2,37 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-            "type": "plugin", 
-            "title": "Forgotten 60s Songs", 
-            "link": "plugin.video.youtube/playlist/PLt6swLxjyFncx6OSTWzUGNh5SY8z8PHti", 
-            "thumbnail": "https://i.ytimg.com/vi/IQ2SAtkEsqU/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "60s Hits - Sixties Greatest Music Hits", 
-            "link": "plugin.video.youtube/playlist/PLGBuKfnErZlCkRRgt06em8nbXvcV5Sae7", 
-            "thumbnail": "https://i.ytimg.com/vi/dTd2ylacYNU/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "60s bands - live performances", 
-            "link": "plugin.video.youtube/playlist/PLu6swaUPS8tt-3oOsxaTkC06kOeG9HiM3", 
-            "thumbnail": "https://i.ytimg.com/vi/InRb7bOuT9c/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "Greatest 1960's Folk Songs", 
-            "link": "plugin.video.youtube/playlist/PLGBuKfnErZlAn6KQURHt9biYXrIcHZbKW", 
-            "thumbnail": "https://i.ytimg.com/vi/w6iRNVwslM4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAM2RNAuhYDPbHDzSVzoll6UwcJSQ", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "1960s Soul", 
-            "link": "plugin.video.youtube/playlist/PLHOg3W1KTU9OpushjxXVIjZKoRqQBtSEM", 
-            "thumbnail": "https://i.ytimg.com/vi/hwZNL7QVJjE/hqdefault.jpg", 
-            "fanart": ""
-        }
-    ]
-}
+<plugin>
+    <title>Forgotten 60s Songs</title>
+    <link>plugin://plugin.video.youtube/playlist/PLt6swLxjyFncx6OSTWzUGNh5SY8z8PHti/</link>
+    <thumbnail>https://i.ytimg.com/vi/IQ2SAtkEsqU/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>60s Hits - Sixties Greatest Music Hits</title>
+    <link>plugin://plugin.video.youtube/playlist/PLGBuKfnErZlCkRRgt06em8nbXvcV5Sae7/</link>
+    <thumbnail>https://i.ytimg.com/vi/dTd2ylacYNU/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>60s bands - live performances</title>
+    <link>plugin://plugin.video.youtube/playlist/PLu6swaUPS8tt-3oOsxaTkC06kOeG9HiM3/</link>
+    <thumbnail>https://i.ytimg.com/vi/InRb7bOuT9c/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Greatest 1960's Folk Songs</title>
+    <link>plugin://plugin.video.youtube/playlist/PLGBuKfnErZlAn6KQURHt9biYXrIcHZbKW/</link>
+    <thumbnail>https://i.ytimg.com/vi/w6iRNVwslM4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAM2RNAuhYDPbHDzSVzoll6UwcJSQ</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>1960s Soul</title>
+    <link>plugin://plugin.video.youtube/playlist/PLHOg3W1KTU9OpushjxXVIjZKoRqQBtSEM/</link>
+    <thumbnail>https://i.ytimg.com/vi/hwZNL7QVJjE/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
