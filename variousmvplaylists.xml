@@ -2,192 +2,184 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
+<plugin>
+    <title>Christmas Holiday Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs7MxJyTNj_Y3YnEAQ9PsA28</link>
+    <thumbnail>https://i.ytimg.com/vi/IfRWtKuepDM/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4OgAK4CIoCDAgAEAEYfyATKB4wDw==&rs=AOn4CLBR2P8ogYXZGi8cr7ugu3En2ZmUkQ</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
 
+<plugin>
+    <title>Music from the 50s to 2020s Playlist YT ( HUGE )</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PLAQ7nLSEnhWTEihjeM1I-ToPDJEKfZHZu</link>
+    <thumbnail>https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLi56stYW1ZPn2_xADBDQspphvnA</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
 
+<plugin>
+    <title>Drinking Songs Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/L-ntK3MOBOs4-key7CfJ5s0_FHl7xoxbd</link>
+    <thumbnail>https://i.ytimg.com/vi/WEIOOWgpunY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCKKkt50UYwWTxfKHm5VbXXSzFr4w</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
 
-{
-    "items": [
-        {
-            "type": "plugin", 
-            "title": "Christmas Holiday Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7MxJyTNj_Y3YnEAQ9PsA28", 
-            "thumbnail": "https://i.ytimg.com/vi/IfRWtKuepDM/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4OgAK4CIoCDAgAEAEYfyATKB4wDw==&rs=AOn4CLBR2P8ogYXZGi8cr7ugu3En2ZmUkQ", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Music from the 50s to 2020s Playlist YT ( HUGE )", 
-            "link": "plugin.video.youtube/playlist/PLAQ7nLSEnhWTEihjeM1I-ToPDJEKfZHZu", 
-            "thumbnail": "https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLi56stYW1ZPn2_xADBDQspphvnA", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Drinking Songs Playlist YT", 
-            "link": "plugin.video.youtube/playlist/L-ntK3MOBOs4-key7CfJ5s0_FHl7xoxbd", 
-            "thumbnail": "https://i.ytimg.com/vi/WEIOOWgpunY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCKKkt50UYwWTxfKHm5VbXXSzFr4w", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Bar Fight - Soundtrack for Video & Gaming Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5jQGDDUvR2u4vBNi6tEisb", 
-            "thumbnail": "https://i.ytimg.com/vi/tPHS-r-xCKI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBEVqe6FMqIKNKlDbOTz4_C5t3mzg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Play Rock Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs74P4BmmylAEN7yrrcmjh-H", 
-            "thumbnail": "https://i.ytimg.com/vi/TAcSCYFloPI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDtyTvJTkGUCZmkg_mA4R8_yZilVQ", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Car Chase - Soundtrack for Video & Gaming Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4_fqK6Let4Mf854JazBg3N", 
-            "thumbnail": "https://i.ytimg.com/vi/-c_CQVynP8Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKHvjFRDmi0sb8wbpXt-cFckHFiQ", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Bad Guys - Soundtrack for Video & Gaming Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4yEhoUG9wxQw2UA5GWnhG0", 
-            "thumbnail": "https://i.ytimg.com/vi/tObVUbcEvLA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgukzEhZ88JELbelLe_OJfkOVBwA", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Women of the Blues Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs760FN7M3etzoIQ2yuU-wzD", 
-            "thumbnail": "https://i.ytimg.com/vi/SwMgJS2xTy4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwOineSK2pN4QUYIVNID71ECUU0g", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Metal Mayhem Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7U5xB0TivVXOr5aTl0TNxl", 
-            "thumbnail": "https://i.ytimg.com/vi/R8itHR44pDk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrgtSKB7Rr3rwStlwxDuKwOixhxg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Buzzworthy Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs6UzATzcv1Lg0GXGZbbKUo8", 
-            "thumbnail": "https://i.ytimg.com/vi/od5zVf7V0Fo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCfzgqawKDiu7jeJ3SULVEGYUQrYw", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Comfort Songs Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs6UOEBdkuXny7c5SL5q2Y31", 
-            "thumbnail": "https://i.ytimg.com/vi/AZjTCUY7rRY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvtqcGAiugABpzTXyRH35Dt8kGMg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Blues Guitar Masters Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs53ac96zjuSc03Ck5b8wh5b", 
-            "thumbnail": "https://i.ytimg.com/vi/cS0My6bN77o/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBHanuywuoCUyutglYV_KRRxq6_sA", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Canadian Country Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7eryCYveLsypDaDGGLF2mc", 
-            "thumbnail": "https://i.ytimg.com/vi/FIA4idbOxdU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBKah4rqu3A9vcdyUHGhBPvwfdSmQ", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Workout Classics Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs41pIE8aVQLedVYhZ07tg4h", 
-            "thumbnail": "https://i.ytimg.com/vi/xHH6d1bMtls/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKrL26jSFLYl_cX-IOFQ5bSu1c1A", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "R&B Jams 2023 Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5n2v5P5byntJA4Yva-zOMa", 
-            "thumbnail": "https://i.ytimg.com/vi/J7OmKecn_3w/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT_YdfxPbsbZZFuJvEpvdVhb2JVw", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Rap Playlist 2023 Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4m_s9-UzpwqXufgg0vzdec", 
-            "thumbnail": "https://i.ytimg.com/vi/odu-e50Ov6c/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBL6Bk0pKbxKhNe3Bk_B0AtkZmPGQ", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Pop Playlist 2023 Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7unBtYwOn15_lY_oc7Ji5_", 
-            "thumbnail": "https://i.ytimg.com/vi/rUC21p7M6so/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAC0ntFkdOnzYekDUIGexpVxgfTWQ", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Acoustic Laid Back Blues Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5jO3Yz0HZpITxEtvvOhBNp", 
-            "thumbnail": "https://i.ytimg.com/vi/28f-FFvedOE/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYEyAsKH8wDw==&rs=AOn4CLD71BAu0xnuXpz2wTW25Wrm1ahWsA", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Break-Thru Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7H6X-XZSN_MVhpoWRgn4Ml", 
-            "thumbnail": "https://i.ytimg.com/vi/NEXIDgUqfBU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDPpowmD1aZSQd55yeC_LA1fvUtJA", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Cool Jazz Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5cIiXWD5GlgH6xc43-JnA9", 
-            "thumbnail": "https://i.ytimg.com/vi/VO_1Ncilfz4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB4gKY6gd-V3x-LbDP3F2iz6RuIVA", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Cottage Country Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs46tRqPUpLf0BdTkS0QT-Hg", 
-            "thumbnail": "https://i.ytimg.com/vi/X1wibquSIvY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDBP4N_owNW3NTM_aWF8OUOyWjhXw", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Old Songs Throwback Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs49foA-Y8GRB4MdfX26e5H3", 
-            "thumbnail": "https://i.ytimg.com/vi/IZXBToMEp5Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAWBAz4jfvi4E6NbfEBMpuXxCz6yw", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Celtic Kitchen Party Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7_oP_l7oFGNjxzmm1KD9ey", 
-            "thumbnail": "https://i.ytimg.com/vi/HNTRuUiINyo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBcKVDrtQBW9UdoiSkWZ4P7RsWXQg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Sad Songs Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4-n1MrceNZmq-EfzXGYfOX", 
-            "thumbnail": "https://i.ytimg.com/vi/vONRcexCCiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBuKgn1DnLh2DjvqMCaB3VEBqvlOg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "Happy Songs Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs7XQuEqjcDKvuG_zBIdYYHZ", 
-            "thumbnail": "https://i.ytimg.com/vi/-psODs3rhmU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAMorn2gppOQVstYP8F6QmY5c1b7A", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "St. Patrick's Day Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs6bHfp1nn6DYS42Irrojp5l", 
-            "thumbnail": "https://i.ytimg.com/vi/rroW82TvW1I/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBaKFcwDw==&rs=AOn4CLBaAZXof8SCygvK0B3izjmSnwOMGg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        }
-    ]
-}
+<plugin>
+    <title>Bar Fight - Soundtrack for Video & Gaming Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs5jQGDDUvR2u4vBNi6tEisb</link>
+    <thumbnail>https://i.ytimg.com/vi/tPHS-r-xCKI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBEVqe6FMqIKNKlDbOTz4_C5t3mzg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Play Rock Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs74P4BmmylAEN7yrrcmjh-H</link>
+    <thumbnail>https://i.ytimg.com/vi/TAcSCYFloPI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDtyTvJTkGUCZmkg_mA4R8_yZilVQ</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Car Chase - Soundtrack for Video & Gaming Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs4_fqK6Let4Mf854JazBg3N</link>
+    <thumbnail>https://i.ytimg.com/vi/-c_CQVynP8Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKHvjFRDmi0sb8wbpXt-cFckHFiQ</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Bad Guys - Soundtrack for Video & Gaming Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs4yEhoUG9wxQw2UA5GWnhG0</link>
+    <thumbnail>https://i.ytimg.com/vi/tObVUbcEvLA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgukzEhZ88JELbelLe_OJfkOVBwA</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Women of the Blues Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs760FN7M3etzoIQ2yuU-wzD</link>
+    <thumbnail>https://i.ytimg.com/vi/SwMgJS2xTy4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwOineSK2pN4QUYIVNID71ECUU0g</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Metal Mayhem Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs7U5xB0TivVXOr5aTl0TNxl</link>
+    <thumbnail>https://i.ytimg.com/vi/R8itHR44pDk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrgtSKB7Rr3rwStlwxDuKwOixhxg</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Buzzworthy Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs6UzATzcv1Lg0GXGZbbKUo8</link>
+    <thumbnail>https://i.ytimg.com/vi/od5zVf7V0Fo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCfzgqawKDiu7jeJ3SULVEGYUQrYw</thumbnail>
+<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Comfort Songs Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs6UOEBdkuXny7c5SL5q2Y31</link>
+    <thumbnail>https://i.ytimg.com/vi/AZjTCUY7rRY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvtqcGAiugABpzTXyRH35Dt8kGMg</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Blues Guitar Masters Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs53ac96zjuSc03Ck5b8wh5b</link>
+    <thumbnail>https://i.ytimg.com/vi/cS0My6bN77o/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBHanuywuoCUyutglYV_KRRxq6_sA</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Canadian Country Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs7eryCYveLsypDaDGGLF2mc</link>
+    <thumbnail>https://i.ytimg.com/vi/FIA4idbOxdU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBKah4rqu3A9vcdyUHGhBPvwfdSmQ</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Workout Classics Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs41pIE8aVQLedVYhZ07tg4h</link>
+    <thumbnail>https://i.ytimg.com/vi/xHH6d1bMtls/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKrL26jSFLYl_cX-IOFQ5bSu1c1A</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>R&B Jams 2023 Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs5n2v5P5byntJA4Yva-zOMa</link>
+    <thumbnail>https://i.ytimg.com/vi/J7OmKecn_3w/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCT_YdfxPbsbZZFuJvEpvdVhb2JVw</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Rap Playlist 2023 Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs4m_s9-UzpwqXufgg0vzdec</link>
+    <thumbnail>https://i.ytimg.com/vi/odu-e50Ov6c/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBL6Bk0pKbxKhNe3Bk_B0AtkZmPGQ</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Pop Playlist 2023 Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs7unBtYwOn15_lY_oc7Ji5_</link>
+    <thumbnail>https://i.ytimg.com/vi/rUC21p7M6so/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAC0ntFkdOnzYekDUIGexpVxgfTWQ</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Acoustic Laid Back Blues Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs5jO3Yz0HZpITxEtvvOhBNp</link>
+    <thumbnail>https://i.ytimg.com/vi/28f-FFvedOE/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYEyAsKH8wDw==&rs=AOn4CLD71BAu0xnuXpz2wTW25Wrm1ahWsA</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Break-Thru Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs7H6X-XZSN_MVhpoWRgn4Ml</link>
+    <thumbnail>https://i.ytimg.com/vi/NEXIDgUqfBU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDPpowmD1aZSQd55yeC_LA1fvUtJA</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Cool Jazz Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs5cIiXWD5GlgH6xc43-JnA9</link>
+    <thumbnail>https://i.ytimg.com/vi/VO_1Ncilfz4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB4gKY6gd-V3x-LbDP3F2iz6RuIVA</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Cottage Country Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs46tRqPUpLf0BdTkS0QT-Hg</link>
+    <thumbnail>https://i.ytimg.com/vi/X1wibquSIvY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDBP4N_owNW3NTM_aWF8OUOyWjhXw</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Old Songs Throwback Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs49foA-Y8GRB4MdfX26e5H3</link>
+    <thumbnail>https://i.ytimg.com/vi/IZXBToMEp5Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAWBAz4jfvi4E6NbfEBMpuXxCz6yw</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Celtic Kitchen Party Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs7_oP_l7oFGNjxzmm1KD9ey</link>
+    <thumbnail>https://i.ytimg.com/vi/HNTRuUiINyo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBcKVDrtQBW9UdoiSkWZ4P7RsWXQg</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Sad Songs Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs4-n1MrceNZmq-EfzXGYfOX</link>
+    <thumbnail>https://i.ytimg.com/vi/vONRcexCCiI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBuKgn1DnLh2DjvqMCaB3VEBqvlOg</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>Happy Songs Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs7XQuEqjcDKvuG_zBIdYYHZ</link>
+    <thumbnail>https://i.ytimg.com/vi/-psODs3rhmU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAMorn2gppOQVstYP8F6QmY5c1b7A</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+    <title>St. Patrick's Day Playlist YT</title>
+    <link>plugin://plugin.video.youtube.youtube/playlist/PL-ntK3MOBOs6bHfp1nn6DYS42Irrojp5l</link>
+    <thumbnail>https://i.ytimg.com/vi/rroW82TvW1I/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBaKFcwDw==&rs=AOn4CLBaAZXof8SCygvK0B3izjmSnwOMGg</thumbnail>
+	<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
