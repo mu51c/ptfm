@@ -41,6 +41,13 @@
 </dir>
 
 <dir>
+	<title>Bonus Movies Youtube & Free One Clicks</title>
+	<link>https://mu51c.github.io/ptfm/bonusmovies.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</dir>
+
+<dir>
     <title>Radio</title>
     <link>https://mu51c.github.io/ptfm/radio.xml</link>
     <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>

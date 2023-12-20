@@ -2,7 +2,12 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-
+<plugin>
+	<title>xx</title>
+	<link>plugin://plugin.video.youtube/playlist/xx/</link>
+	<thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
 
 
 {

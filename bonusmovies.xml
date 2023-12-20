@@ -2,18 +2,18 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
+<dir>
+    <title>Youtube Full Movies</title>
+    <link>https://mu51c.github.io/ptfm/ytmovies.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+    <content></content>
+</dir>
 
-
-
-            "type": "dir", 
-            "title": "Youtube Full Movies", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/ytmovies", 
-            "thumbnail": "", 
-            "fanart": ""
-        },
-        {
-            "type": "dir", 
-            "title": "Bonus for the Oldies YT", 
-            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/bonusoldies", 
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/BFTOldieslogo.png?raw=true", 
-            "fanart": ""
+<dir>
+    <title>Bonus for the Oldies YT</title>
+    <link>https://mu51c.github.io/ptfm/bonusoldies.xml</link>
+    <thumbnail>special://home/addons/plugin.video.ptfm/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+    <content></content>
+</dir>
