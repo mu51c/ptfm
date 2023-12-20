@@ -2,53 +2,51 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-            "type": "plugin", 
-            "title": "00s Hidden Gems", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs4fZY55MuR54OZCn13JHh9a", 
-            "thumbnail": "https://i.ytimg.com/vi/CSC5qgxo5wk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9x_Whrm7oW8-FuIhhg2CnQoksbg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "Forgotten Underrated 2000s songs", 
-            "link": "plugin.video.youtube/playlist/PLYhREcq3PbZ_b57_KdYdyYOn5u01tcq_9", 
-            "thumbnail": "https://i.ytimg.com/vi/8MmW_GOFS8I/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "00s Music Hits", 
-            "link": "plugin.video.youtube/playlist/PLDoNWpWHi2nLqrJyJTf19nueOiEleQqVL", 
-            "thumbnail": "https://i.ytimg.com/vi/5qm8PH4xAss/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "The Ultimate 2000s Indie Music", 
-            "link": "plugin.video.youtube/playlist/PL4BrNFx1j7E7BDa131cA8Aax0QtfDbWeS", 
-            "thumbnail": "https://i.ytimg.com/vi/Oextk-If8HQ/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "MTV Classic 2000s music videos US Version", 
-            "link": "plugin.video.youtube/playlist/PLCQCtoOJpI_A5oktQImEdDBJ50BqHXujj", 
-            "thumbnail": "https://i.ytimg.com/vi/wt1YkGO2Ieo/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "00s HITS UK", 
-            "link": "plugin.video.youtube/playlist/PLC25D1lSTstJ5Z_HSnh1VjO-sn2h_d_O1", 
-            "thumbnail": "https://i.ytimg.com/vi/gGdGFtwCNBE/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "2000s One-Hit Wonders", 
-            "link": "plugin.video.youtube/playlist/PL8C76467C77063026", 
-            "thumbnail": "https://i.ytimg.com/vi/ZIANBamMgas/hqdefault.jpg", 
-            "fanart": ""
-        }
-    ]
-}
+<plugin>
+    <title>00s Hidden Gems</title>
+    <link>plugin://plugin.video.youtube/playlist/PL-ntK3MOBOs4fZY55MuR54OZCn13JHh9a/</link>
+    <thumbnail>https://i.ytimg.com/vi/CSC5qgxo5wk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9x_Whrm7oW8-FuIhhg2CnQoksbg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Forgotten Underrated 2000s songs</title>
+    <link>plugin://plugin.video.youtube/playlist/PLYhREcq3PbZ_b57_KdYdyYOn5u01tcq_9/</link>
+    <thumbnail>https://i.ytimg.com/vi/8MmW_GOFS8I/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>00s Music Hits</title>
+    <link>plugin://plugin.video.youtube/playlist/PLDoNWpWHi2nLqrJyJTf19nueOiEleQqVL/</link>
+    <thumbnail>https://i.ytimg.com/vi/5qm8PH4xAss/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>The Ultimate 2000s Indie Music</title>
+    <link>plugin://plugin.video.youtube/playlist/PL4BrNFx1j7E7BDa131cA8Aax0QtfDbWeS/</link>
+    <thumbnail>https://i.ytimg.com/vi/Oextk-If8HQ/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>MTV Classic 2000s music videos US Version</title>
+    <link>plugin://plugin.video.youtube/playlist/PLCQCtoOJpI_A5oktQImEdDBJ50BqHXujj/</link>
+    <thumbnail>https://i.ytimg.com/vi/wt1YkGO2Ieo/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>00s HITS UK</title>
+    <link>plugin://plugin.video.youtube/playlist/PLC25D1lSTstJ5Z_HSnh1VjO-sn2h_d_O1/</link>
+    <thumbnail>https://i.ytimg.com/vi/gGdGFtwCNBE/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>2000s One-Hit Wonders</title>
+    <link>plugin://plugin.video.youtube/playlist/PL8C76467C77063026/</link>
+    <thumbnail>https://i.ytimg.com/vi/ZIANBamMgas/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
