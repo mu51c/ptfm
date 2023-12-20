@@ -2,53 +2,51 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>GoFuckYourself</layoutype>
 
-            "type": "plugin", 
-            "title": "70s Hidden Gems Playlist YT", 
-            "link": "plugin.video.youtube/playlist/PL-ntK3MOBOs5xxO3-PpiQMIWRYFgpxAPL", 
-            "thumbnail": "https://i.ytimg.com/vi/aogEfnvFq7s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAQMTI4nIEFdRqcYQn8xKlSN8CoIg", 
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true"
-        },
-        {
-            "type": "plugin", 
-            "title": "70's songs you may have forgotten", 
-            "link": "plugin.video.youtube/playlist/PLLFWrh68-XMRGLYQUafmGbi48uT7uOrRU", 
-            "thumbnail": "https://i.ytimg.com/vi/WGU_4-5RaxU/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "One Hit Wonders Of The 70s", 
-            "link": "plugin.video.youtube/playlist/PLo-__umYa-ICkNzARX8dhHrAeRkB9cN8m", 
-            "thumbnail": "https://i.ytimg.com/vi/aPEhQugz-Ew/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "Best of 70s Music Classics", 
-            "link": "plugin.video.youtube/playlist/PLGBuKfnErZlAkaUUy57-mR97f8SBgMNHh", 
-            "thumbnail": "https://i.ytimg.com/vi/ZhIsAZO5gl0/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "70's greatest hits", 
-            "link": "plugin.video.youtube/playlist/PLXdko0_SM_Fzb7dY9WPE53gJNVK7EGldD", 
-            "thumbnail": "https://i.ytimg.com/vi/I_izvAbhExY/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "One Two or Three Hit Wonders of the 70s", 
-            "link": "plugin.video.youtube/playlist/PL7P2TR060DnTnYrfZrE26cIZ-lUVgzgfC", 
-            "thumbnail": "https://i.ytimg.com/vi/aQqMprFQ-zo/hqdefault.jpg", 
-            "fanart": ""
-        },
-        {
-            "type": "plugin", 
-            "title": "rock songs of the 70s", 
-            "link": "plugin.video.youtube/playlist/PLhMWvTmAOsc4VnHR_WJ1YbsPiMpETfrWA", 
-            "thumbnail": "https://i.ytimg.com/vi/0brHGJ6xqbk/hqdefault.jpg", 
-            "fanart": ""
-        }
-    ]
-}
+<plugin>
+    <title>70s Hidden Gems Playlist YT</title>
+    <link>plugin://plugin.video.youtube/playlist/PL-ntK3MOBOs5xxO3-PpiQMIWRYFgpxAPL/</link>
+    <thumbnail>https://i.ytimg.com/vi/aogEfnvFq7s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAQMTI4nIEFdRqcYQn8xKlSN8CoIg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>70's songs you may have forgotten</title>
+    <link>plugin://plugin.video.youtube/playlist/PLLFWrh68-XMRGLYQUafmGbi48uT7uOrRU/</link>
+    <thumbnail>https://i.ytimg.com/vi/WGU_4-5RaxU/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>One Hit Wonders Of The 70s</title>
+    <link>plugin://plugin.video.youtube/playlist/PLo-__umYa-ICkNzARX8dhHrAeRkB9cN8m/</link>
+    <thumbnail>https://i.ytimg.com/vi/aPEhQugz-Ew/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Best of 70s Music Classics</title>
+    <link>plugin://plugin.video.youtube/playlist/PLGBuKfnErZlAkaUUy57-mR97f8SBgMNHh/</link>
+    <thumbnail>https://i.ytimg.com/vi/ZhIsAZO5gl0/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>70's greatest hits</title>
+    <link>plugin://plugin.video.youtube/playlist/PLXdko0_SM_Fzb7dY9WPE53gJNVK7EGldD/</link>
+    <thumbnail>https://i.ytimg.com/vi/I_izvAbhExY/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>One Two or Three Hit Wonders of the 70s</title>
+    <link>plugin://plugin.video.youtube/playlist/PL7P2TR060DnTnYrfZrE26cIZ-lUVgzgfC/</link>
+    <thumbnail>https://i.ytimg.com/vi/aQqMprFQ-zo/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
+
+<plugin>
+    <title>Rock songs of the 70s</title>
+    <link>plugin://plugin.video.youtube/playlist/PLhMWvTmAOsc4VnHR_WJ1YbsPiMpETfrWA/</link>
+    <thumbnail>https://i.ytimg.com/vi/0brHGJ6xqbk/hqdefault.jpg</thumbnail>
+    <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg<fanart>
+</plugin>
