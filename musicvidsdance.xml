@@ -3,9 +3,23 @@
 <layoutype>GoFuckYourself</layoutype>
 
 <item>
-<title>Adele - Easy On Me</title>
+<title>Adele - Easy On Me Test 1</title>
 <thumbnail>https://static01.nyt.com/images/2021/11/18/arts/18adele-review1/18adele-review1-mediumSquareAt3X.jpg</thumbnail>
-<link>https://youtu.be/U3ASj1L6_sY</link>
+<link>https://www.youtube.com/watch?v=U3ASj1L6_sY</link>
+<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</item>
+
+<plugin>
+<title>Adele - Easy On Me Test 2</title>
+<thumbnail>https://static01.nyt.com/images/2021/11/18/arts/18adele-review1/18adele-review1-mediumSquareAt3X.jpg</thumbnail>
+<link>plugin://plugin.video.youtub/watch?v=U3ASj1L6_sY</link>
+<fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
+</plugin>
+
+<item>
+<title>Adele - Easy On Me Test 3</title>
+<thumbnail>https://static01.nyt.com/images/2021/11/18/arts/18adele-review1/18adele-review1-mediumSquareAt3X.jpg</thumbnail>
+<link>https://www.youtube.com/watch?v=U3ASj1L6_sY/</link>
 <fanart>special://home/addons/plugin.video.ptfm/fanart.jpg</fanart>
 </item>
 
